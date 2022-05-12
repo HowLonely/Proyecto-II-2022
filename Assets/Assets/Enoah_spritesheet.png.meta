@@ -51,6 +51,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -328,6 +329,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Enoah_spritesheet_1: 7891500578386324045
+      Enoah_spritesheet_3: -4178802245221043850
+      Enoah_spritesheet_6: 5232369087315663132
+      Enoah_spritesheet_8: 6000250291457449517
+      Enoah_spritesheet_2: -4973514706771855763
+      Enoah_spritesheet_0: 7731604693136204131
+      Enoah_spritesheet_5: -1925984341204027931
+      Enoah_spritesheet_4: -2559053669525521024
+      Enoah_spritesheet_7: 1935304555421012772
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
