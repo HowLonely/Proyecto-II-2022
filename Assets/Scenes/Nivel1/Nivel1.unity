@@ -380,11 +380,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 794595720}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d870c6dcaadef5244a9137d1ae70c628, type: 3}
+  m_Script: {fileID: 11500000, guid: f468c44e9c23fa342802be0a5978b195, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1931355747}
-  offset: {x: 0, y: 0, z: -10}
+  offset: {x: 0, y: 0, z: -20}
+  LimiteBajo: {x: 5, y: 0, z: -20}
+  LimiteAlto: {x: 50, y: 0, z: -20}
 --- !u!1 &1167382207
 GameObject:
   m_ObjectHideFlags: 0
