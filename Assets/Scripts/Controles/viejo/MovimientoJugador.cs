@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class MovimientoJugador : MonoBehaviour
 {
@@ -9,13 +10,14 @@ public class MovimientoJugador : MonoBehaviour
     public float FuerzaDeSalto = 5f;
     private Rigidbody2D RigidBody;
     public Animator animator;
-    
+
     //Checkeos para ver donde esta el Jugador
     private bool estaParado = false;
     private bool estaSaltando = false;
     private bool estaTocandoTecho = false;
     private bool estaTocandoPared = false;
 
+    private bool estaAtacando = false;
     //Variables que tienen que ver con el salto de jugador
     public int maxSaltos = 1;
     public float gravedad = 1;
@@ -56,6 +58,11 @@ public class MovimientoJugador : MonoBehaviour
         
         animator.SetBool("salto", estaSaltando);
         
+        //Atacar
+        if(Input.GetKeyDown(KeyCode.Mouse0))
+            Atacar();
+        
+        animator.SetBool("ataque",estaAtacando);
     }
 
     //Funcion para saltar
@@ -67,6 +74,12 @@ public class MovimientoJugador : MonoBehaviour
         estaParado = false;
         estaSaltando = true;
         contadorSaltos++;
+    }
+
+    private void Atacar() {
+        estaAtacando = true;
+        animator.SetBool("ataque",estaAtacando);
+
     }
     void OnCollisionEnter2D(Collision2D collision){
 
@@ -88,5 +101,7 @@ public class MovimientoJugador : MonoBehaviour
 
         //Si la normal apunta a los lados, el jugador esta tocando una pared
         estaTocandoPared = Mathf.Abs(normal.x) > 0.1f;
+
+        estaAtacando = false;
     }
 }
