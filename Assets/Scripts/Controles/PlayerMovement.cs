@@ -13,25 +13,30 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody2D rb;
     public Animator anim;
 
+
     //Checkeos para ver donde esta el Jugador
     private bool estaParado = false;
     private bool estaSaltando = false;
     private bool estaTocandoTecho = false;
     private bool estaTocandoPared = false;
 
-    private bool estaAtacando = false;
     //Variables que tienen que ver con el salto de jugador
     public int maxSaltos = 1;
     public float gravedad = 1;
     private int contadorSaltos = 0;
+    private Vector2 orientacion;
 
     private void Awake() {
 
+        orientacion.x = transform.lossyScale.x;
+        orientacion.y = transform.lossyScale.y;
+        
         controls = new PlayerControls();
         controls.Enable();
 
         controls.Gameplay.MovimientoHorizontal.performed += ctx => {
             vector = ctx.ReadValue<Vector2>();
+            MovimientoLateral();
 
         };
 
@@ -39,22 +44,14 @@ public class PlayerMovement : MonoBehaviour
             Saltar();
         };
 
-        controls.Gameplay.Atacar.performed += ctx => {
-            Atacar();
-        };
-
-    }
-
-    void Update() {
-        MovimientoLateral();
     }
 
     void MovimientoLateral() {
         rb.velocity = new Vector2(vector.x * Velocidad, rb.velocity.y);
         if(vector.x == -1)
-            transform.localScale = new Vector2(-3, 3);
+            transform.localScale = new Vector2(orientacion.x * -1, orientacion.y);
         if(vector.x == 1)
-            transform.localScale = new Vector2(3, 3);
+            transform.localScale = new Vector2(orientacion.x, orientacion.y);
 
         anim.SetFloat("velocidad",Mathf.Abs(rb.velocity.x));
     }
@@ -70,10 +67,6 @@ public class PlayerMovement : MonoBehaviour
         anim.SetBool("salto", estaSaltando);
     }
 
-    private void Atacar() {
-        estaAtacando = true;
-        anim.SetBool("ataque",estaAtacando);
-    }
 
     void OnCollisionEnter2D(Collision2D collision){
 
