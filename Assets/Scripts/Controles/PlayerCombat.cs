@@ -6,6 +6,7 @@ public class PlayerCombat : MonoBehaviour
 {
     public PlayerControls controls;
     public Animator anim;
+    public Animator animVFX;
 
     //H_ significa hitbox
     //R_ rango
@@ -40,6 +41,7 @@ public class PlayerCombat : MonoBehaviour
 
         foreach(Collider2D enemy in enemigosGolpeados){ 
             enemy.GetComponent<Entidad>().TakeDamage(D_Basico);
+            animVFX.SetTrigger("golpe");
         }
     }
 
