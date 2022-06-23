@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: b0af50a2fe3dd5a4d9aed8c2d136de35
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: entrada 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1252
+        width: 75
+        height: 659
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b480f7a5c9f703f4fba119622a94a1f5
+      internalID: 1400217418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1261
+        width: 141
+        height: 661
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26026bd76dc88d541ae4003e30585abc
+      internalID: -334325382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1255
+        width: 211
+        height: 634
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ae806234eaefa479955e3b28423871
+      internalID: -1991377156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 3
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1286
+        width: 273
+        height: 572
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf6bed3d23edf243b1b8ecbf19195c9
+      internalID: -1385956646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 4
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1267
+        width: 292
+        height: 587
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62cd1e4227a5cb47a04404ee83d634a
+      internalID: -1323859287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 5
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1255
+        width: 361
+        height: 599
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d28d96baa5c90499a7cc10d63a7b1b
+      internalID: 420923809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 6
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 1261
+        width: 365
+        height: 572
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e18e121a3c2494784b536239d12718
+      internalID: 703116539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 7
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 1265
+        width: 252
+        height: 604
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75b0d590244ce947ba26f65e75d8df3
+      internalID: -1634668985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 8
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 1248
+        width: 378
+        height: 663
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d585dbf3a8ad2404ea5f1ed57fba78c4
+      internalID: -284577390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 119
+        width: 136
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1af98a57c03df4c8604ac4cd9a29ea
+      internalID: -213007270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 42
+        height: 220
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3754c48ee5b2a14c9ef8e0d37f59d79
+      internalID: 190236350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada sheet_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1201
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97022f9365838474f8747fb2c9a67231
+      internalID: -2064282908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada sheet_12
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1092
+        width: 45
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311c40944a30d7c45944b9ec531796f6
+      internalID: -1906114033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada sheet_13
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1219
+        width: 45
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32db0a27910ab444c838ef7c7f732b12
+      internalID: -566949323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1276
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69a755d380c5a245a00e5407d063f73
+      internalID: 335259507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada sheet_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 787
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e2c78b7ddc2ad4fa71c7376304d291
+      internalID: -846737663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada sheet_16
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1230
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb52449c77da64f4c8c0eb1467dfffba
+      internalID: 822903022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1118
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314aa6030e30ec042a6c6233aa0f12b4
+      internalID: -1115722017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 479
+        width: 401
+        height: 571
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a12f170b9124ac4591bf21969e14803
+      internalID: 151890952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada sheet_19
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 514
+        width: 7
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee5af41d82d17f4b9ee2b67e1a3daff
+      internalID: -1385601844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada sheet_20
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 511
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bae20154d579a41befddf10fc250a1
+      internalID: 1123636262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 10
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 478
+        width: 375
+        height: 558
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c149205f8d2d1694596533fa898b0a3a
+      internalID: -1864288027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 11
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 452
+        width: 275
+        height: 598
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb2e8b46bf5d8a4aab8b26deef9f969
+      internalID: 1157786152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 12
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 458
+        width: 281
+        height: 611
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02209e536187e124d87eb2669b4c9e7e
+      internalID: 1892955950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 13
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 476
+        width: 297
+        height: 613
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8901cbd24aab617429cb0e08149b228f
+      internalID: 1446839463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 14
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 458
+        width: 259
+        height: 617
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a85e771e51451745b525cceae79c24e
+      internalID: -918250645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: entrada 15
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 476
+        width: 291
+        height: 576
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239820fcf944cc049bd913a92d2ba9d9
+      internalID: -1097848870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      entrada 15: 1446839463
+      entrada 3: -1991377156
+      entrada 10: -1864288027
+      entrada sheet_13: -846737663
+      entrada sheet_10: -1906114033
+      entrada 13: 1157786152
+      entrada sheet_20: 1892955950
+      entrada 5: -1385956646
+      entrada 0: 151890952
+      entrada 11: -1864288027
+      entrada 6: -1323859287
+      entrada 8: 703116539
+      entrada sheet_11: -566949323
+      entrada sheet_19: 1157786152
+      entrada sheet_14: 822903022
+      entrada 2: -334325382
+      entrada sheet_12: 335259507
+      entrada sheet_9: -2064282908
+      entrada sheet_15: -1115722017
+      entrada sheet_16: 151890952
+      entrada sheet_17: -1385601844
+      entrada 4: -1385956646
+      entrada 12: -1864288027
+      entrada 9: -284577390
+      entrada 7: 420923809
+      entrada 14: 1892955950
+      entrada 1: 151890952
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
