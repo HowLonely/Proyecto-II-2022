@@ -53,6 +53,24 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": ""Press"",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""Agachar"",
+                    ""type"": ""Button"",
+                    ""id"": ""32cf2d0d-7d86-4fdf-a577-62adf09837b2"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": ""Press"",
+                    ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""AtacarFuerte"",
+                    ""type"": ""Button"",
+                    ""id"": ""8dab83d7-a806-4ef2-b8ee-588635b58b35"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": ""Press"",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -191,7 +209,7 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""9fcf3f90-625c-48ab-af0a-c295696b87d2"",
-                    ""path"": ""<Mouse>/leftButton"",
+                    ""path"": ""<Keyboard>/j"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": ""Teclado"",
@@ -207,6 +225,50 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""groups"": ""Control"",
                     ""action"": ""Atacar"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""4746bcb8-2ecc-436e-a7eb-2eddd8271681"",
+                    ""path"": ""<Keyboard>/s"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Teclado"",
+                    ""action"": ""Agachar"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""8c4c67ee-9573-429d-b482-cc2c1d189ac3"",
+                    ""path"": ""<Gamepad>/leftStick/down"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Control"",
+                    ""action"": ""Agachar"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""0ca1ee02-fdaa-4e45-b479-2dc0aa23fcbd"",
+                    ""path"": ""<Keyboard>/k"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Teclado"",
+                    ""action"": ""AtacarFuerte"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""11cae4f3-c2b4-4b37-a59e-d65188f97189"",
+                    ""path"": ""<Gamepad>/buttonNorth"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": ""Control"",
+                    ""action"": ""AtacarFuerte"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -248,6 +310,8 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
         m_Gameplay_MovimientoHorizontal = m_Gameplay.FindAction("MovimientoHorizontal", throwIfNotFound: true);
         m_Gameplay_Saltar = m_Gameplay.FindAction("Saltar", throwIfNotFound: true);
         m_Gameplay_Atacar = m_Gameplay.FindAction("Atacar", throwIfNotFound: true);
+        m_Gameplay_Agachar = m_Gameplay.FindAction("Agachar", throwIfNotFound: true);
+        m_Gameplay_AtacarFuerte = m_Gameplay.FindAction("AtacarFuerte", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -310,6 +374,8 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
     private readonly InputAction m_Gameplay_MovimientoHorizontal;
     private readonly InputAction m_Gameplay_Saltar;
     private readonly InputAction m_Gameplay_Atacar;
+    private readonly InputAction m_Gameplay_Agachar;
+    private readonly InputAction m_Gameplay_AtacarFuerte;
     public struct GameplayActions
     {
         private @PlayerControls m_Wrapper;
@@ -317,6 +383,8 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
         public InputAction @MovimientoHorizontal => m_Wrapper.m_Gameplay_MovimientoHorizontal;
         public InputAction @Saltar => m_Wrapper.m_Gameplay_Saltar;
         public InputAction @Atacar => m_Wrapper.m_Gameplay_Atacar;
+        public InputAction @Agachar => m_Wrapper.m_Gameplay_Agachar;
+        public InputAction @AtacarFuerte => m_Wrapper.m_Gameplay_AtacarFuerte;
         public InputActionMap Get() { return m_Wrapper.m_Gameplay; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -335,6 +403,12 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
                 @Atacar.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnAtacar;
                 @Atacar.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnAtacar;
                 @Atacar.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnAtacar;
+                @Agachar.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnAgachar;
+                @Agachar.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnAgachar;
+                @Agachar.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnAgachar;
+                @AtacarFuerte.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnAtacarFuerte;
+                @AtacarFuerte.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnAtacarFuerte;
+                @AtacarFuerte.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnAtacarFuerte;
             }
             m_Wrapper.m_GameplayActionsCallbackInterface = instance;
             if (instance != null)
@@ -348,6 +422,12 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
                 @Atacar.started += instance.OnAtacar;
                 @Atacar.performed += instance.OnAtacar;
                 @Atacar.canceled += instance.OnAtacar;
+                @Agachar.started += instance.OnAgachar;
+                @Agachar.performed += instance.OnAgachar;
+                @Agachar.canceled += instance.OnAgachar;
+                @AtacarFuerte.started += instance.OnAtacarFuerte;
+                @AtacarFuerte.performed += instance.OnAtacarFuerte;
+                @AtacarFuerte.canceled += instance.OnAtacarFuerte;
             }
         }
     }
@@ -375,5 +455,7 @@ public partial class @PlayerControls : IInputActionCollection2, IDisposable
         void OnMovimientoHorizontal(InputAction.CallbackContext context);
         void OnSaltar(InputAction.CallbackContext context);
         void OnAtacar(InputAction.CallbackContext context);
+        void OnAgachar(InputAction.CallbackContext context);
+        void OnAtacarFuerte(InputAction.CallbackContext context);
     }
 }

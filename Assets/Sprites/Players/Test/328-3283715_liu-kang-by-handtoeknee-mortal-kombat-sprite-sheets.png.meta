@@ -1,0 +1,6816 @@
+fileFormatVersion: 2
+guid: d6608a670b74d754280ec2564fa2177b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5047100145827794700
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_0
+  - first:
+      213: 5801540892566485424
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_1
+  - first:
+      213: 9021628221662378816
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_2
+  - first:
+      213: -5814298914109084528
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_3
+  - first:
+      213: 1143017064162490633
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_4
+  - first:
+      213: -3389646210029659463
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_5
+  - first:
+      213: -1223117636462469982
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_6
+  - first:
+      213: 1888105398352667063
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_7
+  - first:
+      213: -7398305448923872133
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_8
+  - first:
+      213: -4050430700483035660
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_9
+  - first:
+      213: -3876102277012060134
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_10
+  - first:
+      213: 3370471148886870967
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_11
+  - first:
+      213: -1691202286500080340
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_12
+  - first:
+      213: 1593002399174155044
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_13
+  - first:
+      213: -3583958679941900470
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_14
+  - first:
+      213: 1251069293897191898
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_15
+  - first:
+      213: -9046625890698031023
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_16
+  - first:
+      213: 454725434925034645
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_17
+  - first:
+      213: -8116011536038394228
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_18
+  - first:
+      213: -8473844523269047142
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_19
+  - first:
+      213: -8523794633873478682
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_20
+  - first:
+      213: 7773285068123259595
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_21
+  - first:
+      213: -3769433748193693672
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_22
+  - first:
+      213: 4807787620683266014
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_23
+  - first:
+      213: 1506868196141176742
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_24
+  - first:
+      213: -416341093248705379
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_25
+  - first:
+      213: 6717172211055713161
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_26
+  - first:
+      213: 600564760834781063
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_27
+  - first:
+      213: 2810447404376787403
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_28
+  - first:
+      213: -1084861328470822496
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_29
+  - first:
+      213: 1454623401647912637
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_30
+  - first:
+      213: 6927725925856769458
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_31
+  - first:
+      213: -7899162392321663471
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_32
+  - first:
+      213: -2962415965365716196
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_33
+  - first:
+      213: -5768679177439135033
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_34
+  - first:
+      213: 7102992928185134520
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_35
+  - first:
+      213: -6609637171337321118
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_36
+  - first:
+      213: -8655021821712614370
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_37
+  - first:
+      213: 4484955726295051755
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_38
+  - first:
+      213: 4209049520526721520
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_39
+  - first:
+      213: -7400185093078113782
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_40
+  - first:
+      213: -7324882531408216482
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_41
+  - first:
+      213: 6626367221979440844
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_42
+  - first:
+      213: 5226513668406662752
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_43
+  - first:
+      213: 8607489066622052086
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_44
+  - first:
+      213: 4627344625912455492
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_45
+  - first:
+      213: -2055564466079370895
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_46
+  - first:
+      213: -7033365216775505086
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_47
+  - first:
+      213: -7059925852826404961
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_48
+  - first:
+      213: -8926393471351537366
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_49
+  - first:
+      213: -1447412557380411447
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_50
+  - first:
+      213: 9102179438726457020
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_51
+  - first:
+      213: -5160214011742617154
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_52
+  - first:
+      213: 6040811969765658832
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_53
+  - first:
+      213: -8043755184071801376
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_54
+  - first:
+      213: -1509223767334164337
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_55
+  - first:
+      213: 3443689585900193810
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_56
+  - first:
+      213: 5517005112439336314
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_57
+  - first:
+      213: 6520039698785232273
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_58
+  - first:
+      213: -4657161105617692206
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_59
+  - first:
+      213: 2350529023430071930
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_60
+  - first:
+      213: -1191835591634473138
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_61
+  - first:
+      213: -7980158886227714181
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_62
+  - first:
+      213: 1968140209964135512
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_63
+  - first:
+      213: -2025913892446628158
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_64
+  - first:
+      213: 6670941959295927765
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_65
+  - first:
+      213: -4880209282418795878
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_66
+  - first:
+      213: 8923431886047566213
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_67
+  - first:
+      213: -1616706593652619568
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_68
+  - first:
+      213: 7976741601561909422
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_69
+  - first:
+      213: 3850118657310832432
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_70
+  - first:
+      213: 4329499826640346183
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_71
+  - first:
+      213: -3199541324007720598
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_72
+  - first:
+      213: 4184566423701879130
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_73
+  - first:
+      213: -3545591226973928119
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_74
+  - first:
+      213: 8446396416846454683
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_75
+  - first:
+      213: 2390459562777296918
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_76
+  - first:
+      213: 2939167058369712661
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_77
+  - first:
+      213: 78770855072387115
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_78
+  - first:
+      213: 1016180138386360862
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_79
+  - first:
+      213: -7739730134334271852
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_80
+  - first:
+      213: 6861069109844244074
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_81
+  - first:
+      213: 5641991788975213709
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_82
+  - first:
+      213: -3972325382414444752
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_83
+  - first:
+      213: 1475763027546438687
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_84
+  - first:
+      213: 1688815102161812301
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_85
+  - first:
+      213: -5748866238974764582
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_86
+  - first:
+      213: -144461271797851902
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_87
+  - first:
+      213: 8850270825169408893
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_88
+  - first:
+      213: 7923507404448066851
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_89
+  - first:
+      213: 8205235247572984286
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_90
+  - first:
+      213: -6319057925607954924
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_91
+  - first:
+      213: 2885729115371255185
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_92
+  - first:
+      213: -306209284343282234
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_93
+  - first:
+      213: -7106452108226035978
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_94
+  - first:
+      213: 4902426796863920939
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_95
+  - first:
+      213: -1506053251998770655
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_96
+  - first:
+      213: 4436738316219956085
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_97
+  - first:
+      213: -1379442602032079247
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_98
+  - first:
+      213: 3652555813305071320
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_99
+  - first:
+      213: -7427376118339937067
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_100
+  - first:
+      213: -106280901828665910
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_101
+  - first:
+      213: -301316073737292379
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_102
+  - first:
+      213: -7214718454736786130
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_103
+  - first:
+      213: 3869584520777924366
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_104
+  - first:
+      213: 501124227745500437
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_105
+  - first:
+      213: -6274364732906707042
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_106
+  - first:
+      213: -8794210861627417172
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_107
+  - first:
+      213: 4718532576333438341
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_108
+  - first:
+      213: 791790068120010447
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_109
+  - first:
+      213: 1528752092750011603
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_110
+  - first:
+      213: -6887849969058176947
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_111
+  - first:
+      213: 889129675076912667
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_112
+  - first:
+      213: -6389130747645757990
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_113
+  - first:
+      213: -1427308722309532070
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_114
+  - first:
+      213: -4168497615375232593
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_115
+  - first:
+      213: -7206675313174042658
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_116
+  - first:
+      213: -5282912357623507467
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_117
+  - first:
+      213: -4038118515061248382
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_118
+  - first:
+      213: -1324091068415541185
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_119
+  - first:
+      213: 5926264644001522973
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_120
+  - first:
+      213: -6189489765465697390
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_121
+  - first:
+      213: -6327715312893680318
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_122
+  - first:
+      213: 4264013108571364518
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_123
+  - first:
+      213: 2244215088165135349
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_124
+  - first:
+      213: -614156659951414370
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_125
+  - first:
+      213: -6499465037623926357
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_126
+  - first:
+      213: 7516834575184351038
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_127
+  - first:
+      213: 7670425075212534142
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_128
+  - first:
+      213: 7896721909578132731
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_129
+  - first:
+      213: 5344462650428265927
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_130
+  - first:
+      213: 2471886500111504444
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_131
+  - first:
+      213: -4289002426800128111
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_132
+  - first:
+      213: -7841977365979390327
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_133
+  - first:
+      213: 9195548037305522043
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_134
+  - first:
+      213: 7208149448384801720
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_135
+  - first:
+      213: 6276501102126967561
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_136
+  - first:
+      213: -4602339387528627070
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_137
+  - first:
+      213: 5153823521735649719
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_138
+  - first:
+      213: 2635682381791611986
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_139
+  - first:
+      213: -4198563206067035947
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_140
+  - first:
+      213: 3898239992003067566
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_141
+  - first:
+      213: 408529695485522494
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_142
+  - first:
+      213: -5852346310277289981
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_143
+  - first:
+      213: -2164237585522028768
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_144
+  - first:
+      213: 3910657389082933220
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_145
+  - first:
+      213: 4070283781306646256
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_146
+  - first:
+      213: -4072904798971547310
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_147
+  - first:
+      213: 2731337194883836458
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_148
+  - first:
+      213: -2101772716516579422
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_149
+  - first:
+      213: -2940373421223631423
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_150
+  - first:
+      213: 396123347164130094
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_151
+  - first:
+      213: 5662340938270249519
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_152
+  - first:
+      213: 1126010338734556014
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_153
+  - first:
+      213: 8313306980987060847
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_154
+  - first:
+      213: 2572404279099892150
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_155
+  - first:
+      213: -4162240582819240556
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_156
+  - first:
+      213: -643369138731840340
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_157
+  - first:
+      213: 2017695386782596541
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_158
+  - first:
+      213: -6458995611227886674
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_159
+  - first:
+      213: 5703432780052083132
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_160
+  - first:
+      213: 3806923523122346738
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_161
+  - first:
+      213: 9059297426375713056
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_162
+  - first:
+      213: 1932922824060688359
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_163
+  - first:
+      213: -8341919941636998654
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_164
+  - first:
+      213: 7225358921836779202
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_165
+  - first:
+      213: 4433540811027391920
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_166
+  - first:
+      213: 5782542809831296632
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_167
+  - first:
+      213: -2767517689032981627
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_168
+  - first:
+      213: 9049857390369153766
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_169
+  - first:
+      213: -17871236680674254
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_170
+  - first:
+      213: 4210491698625687571
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_171
+  - first:
+      213: 6197644818919181905
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_172
+  - first:
+      213: -5057476862166370507
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_173
+  - first:
+      213: -8027064434905092845
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_174
+  - first:
+      213: -5873033134795379439
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_175
+  - first:
+      213: -1517532467441596162
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_176
+  - first:
+      213: -4361379008235974016
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_177
+  - first:
+      213: -1104335457110322298
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_178
+  - first:
+      213: 275337992571624104
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_179
+  - first:
+      213: 4648544439645553177
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_180
+  - first:
+      213: 195205222314977527
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_181
+  - first:
+      213: 4770795769430845640
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_182
+  - first:
+      213: 3816597633204670177
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_183
+  - first:
+      213: 2286825963243846424
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_184
+  - first:
+      213: -25079965726530955
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_185
+  - first:
+      213: 2434153161277694077
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_186
+  - first:
+      213: 2203984127076517117
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_187
+  - first:
+      213: 5286048845535034563
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_188
+  - first:
+      213: 2116246793161395879
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_189
+  - first:
+      213: 7506933809298981498
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_190
+  - first:
+      213: -7762376742862236492
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_191
+  - first:
+      213: -3384222181326464825
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_192
+  - first:
+      213: 809344465267899821
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_193
+  - first:
+      213: 4228995437732790365
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_194
+  - first:
+      213: -4882804105767749830
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_195
+  - first:
+      213: 3417665595007899143
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_196
+  - first:
+      213: -5937935269156414255
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_197
+  - first:
+      213: -5382507837579260661
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_198
+  - first:
+      213: -1606369578439707870
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_199
+  - first:
+      213: -4286795567153950057
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_200
+  - first:
+      213: 3524000311589263148
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_201
+  - first:
+      213: 6346395463946549692
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_202
+  - first:
+      213: -6111469790039749501
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_203
+  - first:
+      213: 1690129881069952906
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_204
+  - first:
+      213: 1643140508597666764
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_205
+  - first:
+      213: -2899505352828579458
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_206
+  - first:
+      213: 6867169759673283422
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_207
+  - first:
+      213: 5919221947813719079
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_208
+  - first:
+      213: -7336205254129483801
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_209
+  - first:
+      213: -2094408430285603310
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_210
+  - first:
+      213: 1271820822156137838
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_211
+  - first:
+      213: 3856180430903946696
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_212
+  - first:
+      213: 6250563705699602077
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_213
+  - first:
+      213: -6099889739684485856
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_214
+  - first:
+      213: 4992093280960841679
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_215
+  - first:
+      213: -8058495034961696150
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_216
+  - first:
+      213: -7203614983843491949
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_217
+  - first:
+      213: -4359837623532198716
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_218
+  - first:
+      213: 5468757569747342118
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_219
+  - first:
+      213: -8038681577312328524
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_220
+  - first:
+      213: 3336615742529992186
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_221
+  - first:
+      213: 6625686180026658241
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_222
+  - first:
+      213: -6966598529564332267
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_223
+  - first:
+      213: -4159974144556487147
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_224
+  - first:
+      213: 8098424231614122101
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_225
+  - first:
+      213: -3155333087239371288
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_226
+  - first:
+      213: 6827121779667571173
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_227
+  - first:
+      213: 6388885302825239908
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_228
+  - first:
+      213: 8242902110842604880
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_229
+  - first:
+      213: -5676006447283091368
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_230
+  - first:
+      213: 916719295724286097
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_231
+  - first:
+      213: 6547798814607629103
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_232
+  - first:
+      213: -2769163361047273900
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_233
+  - first:
+      213: 7396091604210375983
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_234
+  - first:
+      213: 1318167480416723681
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_235
+  - first:
+      213: -2130425866122165453
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_236
+  - first:
+      213: -8336688754124381364
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_237
+  - first:
+      213: -4998453826357018118
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_238
+  - first:
+      213: 8534804355764070567
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_239
+  - first:
+      213: -7769786968160273759
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_240
+  - first:
+      213: -472530619376059797
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_241
+  - first:
+      213: 7646729782170699770
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_242
+  - first:
+      213: 6785878985572673921
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_243
+  - first:
+      213: 8307864895318398607
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_244
+  - first:
+      213: -1833877866634919521
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_245
+  - first:
+      213: -3798295691512707556
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_246
+  - first:
+      213: -2533417161444892918
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_247
+  - first:
+      213: 4024690161455627648
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_248
+  - first:
+      213: -8881517601953885123
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_249
+  - first:
+      213: -651312485650846790
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_250
+  - first:
+      213: 5030267449969767061
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_251
+  - first:
+      213: 4913630844013146968
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_252
+  - first:
+      213: -2540489358027811405
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_253
+  - first:
+      213: 6772572360146787803
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_254
+  - first:
+      213: 4662574643552288502
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_255
+  - first:
+      213: -5974405662534124708
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_256
+  - first:
+      213: -4116703919782522382
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_257
+  - first:
+      213: 5766620207593317026
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_258
+  - first:
+      213: 1973028727146975514
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_259
+  - first:
+      213: -1599852687849303727
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_260
+  - first:
+      213: -94372822021975181
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_261
+  - first:
+      213: 8698660688214666231
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_262
+  - first:
+      213: 630479934186589475
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_263
+  - first:
+      213: 3078894785675039692
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_264
+  - first:
+      213: -3694622962337521352
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_265
+  - first:
+      213: -4073505827895974581
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_266
+  - first:
+      213: 8526441466752164908
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_267
+  - first:
+      213: -1180831322083061979
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_268
+  - first:
+      213: -8643531673921556211
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_269
+  - first:
+      213: 7106460277037942002
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_270
+  - first:
+      213: -7983558931089116205
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_271
+  - first:
+      213: -5979098078963661745
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_272
+  - first:
+      213: 3715024554979108831
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_273
+  - first:
+      213: 169600115090642664
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_274
+  - first:
+      213: 3971149715133715412
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_275
+  - first:
+      213: -4608753390296912255
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_276
+  - first:
+      213: -1600260790356093370
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_277
+  - first:
+      213: -6200007337482020320
+    second: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_278
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2372
+        width: 41
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f43e987d6ea0640800000000000000
+      internalID: 5047100145827794700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2372
+        width: 41
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9f35334b6338050800000000000000
+      internalID: 5801540892566485424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2372
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b33d7a113433d70800000000000000
+      internalID: 9021628221662378816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2372
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ca69e61f57f4fa0800000000000000
+      internalID: -5814298914109084528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2372
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9097d91c6ffccdf00800000000000000
+      internalID: 1143017064162490633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2372
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9badee82bbe85f0d0800000000000000
+      internalID: -3389646210029659463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2372
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac93207dfc960fe0800000000000000
+      internalID: -1223117636462469982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2372
+        width: 40
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1ee4f2bd5e33a10800000000000000
+      internalID: 1888105398352667063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_8
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2372
+        width: 39
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744e016460f35990800000000000000
+      internalID: -7398305448923872133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_9
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2372
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd3f5eecbaf9c7c0800000000000000
+      internalID: -4050430700483035660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_10
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2372
+        width: 35
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a180d99f381553ac0800000000000000
+      internalID: -3876102277012060134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_11
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 2372
+        width: 41
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbca1307a156ce20800000000000000
+      internalID: 3370471148886870967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2372
+        width: 41
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2595d51b74a788e0800000000000000
+      internalID: -1691202286500080340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_13
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2372
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bde11fd3b7b1610800000000000000
+      internalID: 1593002399174155044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_14
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2372
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a479268b198334ec0800000000000000
+      internalID: -3583958679941900470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_15
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2372
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad11424f4e0bc5110800000000000000
+      internalID: 1251069293897191898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_16
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2372
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1509719feade37280800000000000000
+      internalID: -9046625890698031023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2239
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59caa03bf528f4600800000000000000
+      internalID: 454725434925034645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2239
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86857922822e5f80800000000000000
+      internalID: -8116011536038394228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2239
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cb8ac6d4bd66a80800000000000000
+      internalID: -8473844523269047142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2239
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb279501f565b980800000000000000
+      internalID: -8523794633873478682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2239
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c557b59140eb60800000000000000
+      internalID: 7773285068123259595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2239
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810bb823af740bbc0800000000000000
+      internalID: -3769433748193693672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2239
+        width: 42
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7b8564e51b8b240800000000000000
+      internalID: 4807787620683266014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2239
+        width: 43
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7145204a879e410800000000000000
+      internalID: 1506868196141176742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2239
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c53874bfbd83af0800000000000000
+      internalID: -416341093248705379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_26
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2239
+        width: 48
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bd91f6980383d50800000000000000
+      internalID: 6717172211055713161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_27
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2239
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fac22d772a55800800000000000000
+      internalID: 600564760834781063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_28
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2239
+        width: 42
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc90ccd1607b00720800000000000000
+      internalID: 2810447404376787403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_29
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2239
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a130fd9e5cc1f0f0800000000000000
+      internalID: -1084861328470822496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_30
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2239
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6b131e64cdf2410800000000000000
+      internalID: 1454623401647912637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_31
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2239
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5f4ff560a342060800000000000000
+      internalID: 6927725925856769458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_32
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2239
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eda8ed7a9806290800000000000000
+      internalID: -7899162392321663471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_33
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2239
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b3e63006263e6d0800000000000000
+      internalID: -2962415965365716196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_34
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2239
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca3c851ad881ffa0800000000000000
+      internalID: -5768679177439135033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_35
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2239
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd26965f66e29260800000000000000
+      internalID: 7102992928185134520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2105
+        width: 32
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265a834130ad544a0800000000000000
+      internalID: -6609637171337321118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2105
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cb099628f23e780800000000000000
+      internalID: -8655021821712614370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_38
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2105
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedab238873cd3e30800000000000000
+      internalID: 4484955726295051755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2105
+        width: 32
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f106090d3c896a30800000000000000
+      internalID: 4209049520526721520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_40
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2105
+        width: 32
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0220fe9dd24d4990800000000000000
+      internalID: -7400185093078113782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2105
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ef2f5852ac85a90800000000000000
+      internalID: -7324882531408216482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1990
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6606161e595fb50800000000000000
+      internalID: 6626367221979440844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1990
+        width: 61
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0665a1b7d7e488840800000000000000
+      internalID: 5226513668406662752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1990
+        width: 49
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e010a3b1f37770800000000000000
+      internalID: 8607489066622052086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1990
+        width: 46
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44123d8ab61a73040800000000000000
+      internalID: 4627344625912455492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1990
+        width: 61
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1717c6a420b2973e0800000000000000
+      internalID: -2055564466079370895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_47
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1990
+        width: 37
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bf1868997746e90800000000000000
+      internalID: -7033365216775505086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_48
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1990
+        width: 28
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f977fa987da160e90800000000000000
+      internalID: -7059925852826404961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_49
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1990
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21c9be8e641f1480800000000000000
+      internalID: -8926393471351537366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_50
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1990
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf96e1a2f1c9ebe0800000000000000
+      internalID: -1447412557380411447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_51
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1990
+        width: 48
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6a72f59ff615e70800000000000000
+      internalID: 9102179438726457020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_52
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1990
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1861142bc3368b0800000000000000
+      internalID: -5160214011742617154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_53
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1990
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d05fcc1b7645d350800000000000000
+      internalID: 6040811969765658832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1875
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e581391747de5090800000000000000
+      internalID: -8043755184071801376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_55
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1875
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f886875daf82e0be0800000000000000
+      internalID: -1509223767334164337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_56
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1875
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2180b44de617acf20800000000000000
+      internalID: 3443689585900193810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1875
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7de5fe5be6509c40800000000000000
+      internalID: 5517005112439336314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_58
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1875
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195e987bf85db7a50800000000000000
+      internalID: 6520039698785232273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_59
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1875
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d954ed26a07e5fb0800000000000000
+      internalID: -4657161105617692206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_60
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1875
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a769bc371b1ce9020800000000000000
+      internalID: 2350529023430071930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_61
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1875
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa5f118dfb57fe0800000000000000
+      internalID: -1191835591634473138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_62
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1875
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f583f06c7c04190800000000000000
+      internalID: -7980158886227714181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_63
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1875
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8543313e71d305b10800000000000000
+      internalID: 1968140209964135512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1875
+        width: 46
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6903f6c0282e3e0800000000000000
+      internalID: -2025913892446628158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1763
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d505192e52f39c50800000000000000
+      internalID: 6670941959295927765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1763
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a1ddb9383064cb0800000000000000
+      internalID: -4880209282418795878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_67
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1763
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5895241a50666db70800000000000000
+      internalID: 8923431886047566213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1763
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6cd433bed4099e0800000000000000
+      internalID: -1616706593652619568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_69
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1763
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea89d2a593413be60800000000000000
+      internalID: 7976741601561909422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_70
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1763
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037bd10258e5e6530800000000000000
+      internalID: 3850118657310832432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_71
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1763
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c53065729751c30800000000000000
+      internalID: 4329499826640346183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_72
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1763
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6936522e12f893d0800000000000000
+      internalID: -3199541324007720598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_73
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1763
+        width: 33
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f6c7ddf0921a30800000000000000
+      internalID: 4184566423701879130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_74
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1763
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9454a7d70978bcec0800000000000000
+      internalID: -3545591226973928119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1652
+        width: 40
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fd34a4ac0a73570800000000000000
+      internalID: 8446396416846454683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_76
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1652
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610c641ae4e9c2120800000000000000
+      internalID: 2390459562777296918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_77
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1652
+        width: 59
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51218a10ed40ac820800000000000000
+      internalID: 2939167058369712661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_78
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1652
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b205e33eca9d71100800000000000000
+      internalID: 78770855072387115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_79
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1652
+        width: 27
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a8350b3723a1e00800000000000000
+      internalID: 1016180138386360862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_80
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1652
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e8e9d1374f69490800000000000000
+      internalID: -7739730134334271852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_81
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1652
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66fbaff00a673f50800000000000000
+      internalID: 6861069109844244074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_82
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1652
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cc987b3a16c4e40800000000000000
+      internalID: 5641991788975213709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_83
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1652
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0375be86c177fd8c0800000000000000
+      internalID: -3972325382414444752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_84
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1652
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c7f8597a6fa7410800000000000000
+      internalID: 1475763027546438687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1532
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b7baf3360ef6710800000000000000
+      internalID: 1688815102161812301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_86
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1532
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad95cac4d9ce730b0800000000000000
+      internalID: -5748866238974764582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1532
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20910ba1d35cefdf0800000000000000
+      internalID: -144461271797851902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_88
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1532
+        width: 42
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73d93cbc6a72da70800000000000000
+      internalID: 8850270825169408893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1532
+        width: 38
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ded49f004f5fd60800000000000000
+      internalID: 7923507404448066851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_90
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1532
+        width: 57
+        height: 68
+      alignment: 9
+      pivot: {x: 0.3248275, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed12a160cf9ded170800000000000000
+      internalID: 8205235247572984286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_91
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1532
+        width: 34
+        height: 56
+      alignment: 9
+      pivot: {x: 0.4999991, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4166505eb423e48a0800000000000000
+      internalID: -6319057925607954924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_92
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1532
+        width: 65
+        height: 61
+      alignment: 9
+      pivot: {x: 0.30953088, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b4b7575b2c0820800000000000000
+      internalID: 2885729115371255185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_93
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1532
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5cacb374020cbf0800000000000000
+      internalID: -306209284343282234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_94
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1532
+        width: 45
+        height: 54
+      alignment: 9
+      pivot: {x: 0.32623833, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe7cdb857fc06d90800000000000000
+      internalID: -7106452108226035978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_95
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1532
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b1e64923be80440800000000000000
+      internalID: 4902426796863920939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1423
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a9ac5fb8c691be0800000000000000
+      internalID: -1506053251998770655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_97
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1423
+        width: 91
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bb7a3edf5729d30800000000000000
+      internalID: 4436738316219956085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_98
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1423
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e56d5134c3bdce0800000000000000
+      internalID: -1379442602032079247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_99
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1423
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6365ef82c70b230800000000000000
+      internalID: 3652555813305071320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_100
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1423
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd025b5c8ace890800000000000000
+      internalID: -7427376118339937067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_101
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1310
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd1818351a668ef0800000000000000
+      internalID: -106280901828665910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_102
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1310
+        width: 39
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f5cb90a281dbf0800000000000000
+      internalID: -301316073737292379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_103
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1310
+        width: 39
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d65f66acb20eb90800000000000000
+      internalID: -7214718454736786130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_104
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1310
+        width: 40
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f7155ae9683b530800000000000000
+      internalID: 3869584520777924366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_105
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1310
+        width: 38
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dcc1f74d954f600800000000000000
+      internalID: 501124227745500437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_106
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1310
+        width: 39
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e976bd7b48afce8a0800000000000000
+      internalID: -6274364732906707042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_107
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1310
+        width: 36
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadd0d8a0dfa4f580800000000000000
+      internalID: -8794210861627417172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_108
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1310
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d9679d0689b7140800000000000000
+      internalID: 4718532576333438341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_109
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1310
+        width: 36
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb9f23fd00dfa00800000000000000
+      internalID: 791790068120010447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_110
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1310
+        width: 33
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcdffdbde7373510800000000000000
+      internalID: 1528752092750011603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_111
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1310
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d402a1052f07960a0800000000000000
+      internalID: -6887849969058176947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_112
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1310
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16c73a8ab2d65c00800000000000000
+      internalID: 889129675076912667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1192
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad57c03af6f3557a0800000000000000
+      internalID: -6389130747645757990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_114
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1192
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a567ced774e213ce0800000000000000
+      internalID: -1427308722309532070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_115
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1192
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa11f7421858626c0800000000000000
+      internalID: -4168497615375232593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_116
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1192
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed72faa3cfebcfb90800000000000000
+      internalID: -7206675313174042658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_117
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1192
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5545863335fa6b0800000000000000
+      internalID: -5282912357623507467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_118
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1192
+        width: 23
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ea8dcfa98b5f7c0800000000000000
+      internalID: -4038118515061248382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1192
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3003d84032ef9de0800000000000000
+      internalID: -1324091068415541185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_120
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1192
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15eaa68b425e3250800000000000000
+      internalID: 5926264644001522973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_121
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1192
+        width: 61
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29350840ad38a1aa0800000000000000
+      internalID: -6189489765465697390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_122
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1192
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2452c27d2707f28a0800000000000000
+      internalID: -6327715312893680318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_123
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1192
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac510e9451dc2b30800000000000000
+      internalID: 4264013108571364518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_124
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1192
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3a7a97bbd052f10800000000000000
+      internalID: 2244215088165135349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_125
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1192
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93d72f85c31a77f0800000000000000
+      internalID: -614156659951414370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_126
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1192
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1ea52ebf24dc5a0800000000000000
+      internalID: -6499465037623926357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_127
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1081
+        width: 43
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fcc316839215860800000000000000
+      internalID: 7516834575184351038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_128
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1081
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71ca4c57f2d27a60800000000000000
+      internalID: 7670425075212534142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1081
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfce276fcbac69d60800000000000000
+      internalID: 7896721909578132731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_130
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1081
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c59e12e6785b2a40800000000000000
+      internalID: 5344462650428265927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_131
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1081
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34da3cdca7ed4220800000000000000
+      internalID: 2471886500111504444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_132
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1081
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f3ac554076a74c0800000000000000
+      internalID: -4289002426800128111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_133
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1081
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e152c5223bb2390800000000000000
+      internalID: -7841977365979390327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_134
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1081
+        width: 41
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77d2a648362d9f70800000000000000
+      internalID: 9195548037305522043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_135
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1081
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb67ee9bbd780460800000000000000
+      internalID: 7208149448384801720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_136
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1081
+        width: 33
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b20a08f7c9a1750800000000000000
+      internalID: 6276501102126967561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_137
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1081
+        width: 33
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c319616b43120c0800000000000000
+      internalID: -4602339387528627070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_138
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1081
+        width: 34
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b92b18df2f068740800000000000000
+      internalID: 5153823521735649719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_139
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1081
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc17b6923d39420800000000000000
+      internalID: 2635682381791611986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_140
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1081
+        width: 33
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0695f4205bbb5c0800000000000000
+      internalID: -4198563206067035947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_141
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1081
+        width: 33
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae70947e94591630800000000000000
+      internalID: 3898239992003067566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_142
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 974
+        width: 31
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32fc93f7936ba500800000000000000
+      internalID: 408529695485522494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_143
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 974
+        width: 34
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308aa51b90a48cea0800000000000000
+      internalID: -5852346310277289981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_144
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 974
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f0961f16517f1e0800000000000000
+      internalID: -2164237585522028768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_145
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 974
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e77b820d22754630800000000000000
+      internalID: 3910657389082933220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_146
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 974
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fef0d7a88d8c7830800000000000000
+      internalID: 4070283781306646256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_147
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1022
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251315d1aa22a77c0800000000000000
+      internalID: -4072904798971547310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_148
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1028
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2aecde15b8a7e520800000000000000
+      internalID: 2731337194883836458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_149
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1018
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7eb6999d005d2e0800000000000000
+      internalID: -2101772716516579422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_150
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 974
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c527f0c3f1b137d0800000000000000
+      internalID: -2940373421223631423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_151
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 974
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2be4f2e5105f7500800000000000000
+      internalID: 396123347164130094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_152
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1021
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2210ce351da49e40800000000000000
+      internalID: 5662340938270249519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_153
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 974
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63c0bdef6460af00800000000000000
+      internalID: 1126010338734556014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_154
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1006
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62428647acce5370800000000000000
+      internalID: 8313306980987060847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_155
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1002
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1a17a001403b320800000000000000
+      internalID: 2572404279099892150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_156
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 974
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495285f0e30cc36c0800000000000000
+      internalID: -4162240582819240556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_157
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 976
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac80725d2b4217f0800000000000000
+      internalID: -643369138731840340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_158
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 990
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdfe1a934b400c10800000000000000
+      internalID: 2017695386782596541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_159
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 990
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab64fa76b90d56a0800000000000000
+      internalID: -6458995611227886674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_160
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 990
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1b25735e9a62f40800000000000000
+      internalID: 5703432780052083132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_161
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 995
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa39ca36c8e4d430800000000000000
+      internalID: 3806923523122346738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_162
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 974
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0212cb5d20719bd70800000000000000
+      internalID: 9059297426375713056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_163
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 974
+        width: 66
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7d162411f13da10800000000000000
+      internalID: 1932922824060688359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_164
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 974
+        width: 88
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20abafda20c8b3c80800000000000000
+      internalID: -8341919941636998654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_165
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 974
+        width: 114
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6d7c668a1a54460800000000000000
+      internalID: 7225358921836779202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_166
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 974
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b52c72b0e9178d30800000000000000
+      internalID: 4433540811027391920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_167
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 974
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ecb7e5c08bf3050800000000000000
+      internalID: 5782542809831296632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_168
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 974
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5834493235dc799d0800000000000000
+      internalID: -2767517689032981627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_169
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 974
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a5ec295d879d70800000000000000
+      internalID: 9049857390369153766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_170
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 974
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23493f5743280cff0800000000000000
+      internalID: -17871236680674254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_171
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 977
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310b05a44ebae6a30800000000000000
+      internalID: 4210491698625687571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_172
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 974
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ec7b35025720650800000000000000
+      internalID: 6197644818919181905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_173
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 977
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537f0dae69b30d9b0800000000000000
+      internalID: -5057476862166370507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_174
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 974
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d6f48fc632a9090800000000000000
+      internalID: -8027064434905092845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_175
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 984
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d2c660b7bce7ea0800000000000000
+      internalID: -5873033134795379439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_176
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 976
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef88507d244a0fae0800000000000000
+      internalID: -1517532467441596162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_177
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 974
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082df3b46e44973c0800000000000000
+      internalID: -4361379008235974016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_178
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 911
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6831216b0cc9ca0f0800000000000000
+      internalID: -1104335457110322298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_179
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 911
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa9668027232d300800000000000000
+      internalID: 275337992571624104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_180
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 911
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912c0bfe982f28040800000000000000
+      internalID: 4648544439645553177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_181
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 911
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8a26e8d1285b200800000000000000
+      internalID: 195205222314977527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_182
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 911
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8acdcb975453240800000000000000
+      internalID: 4770795769430845640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_183
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 911
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eec2c1835747f430800000000000000
+      internalID: 3816597633204670177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_184
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 790
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b3a42f8107cbf10800000000000000
+      internalID: 2286825963243846424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_185
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 790
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57224ef67e5e6aff0800000000000000
+      internalID: -25079965726530955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_186
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 790
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70e9da4769d7c120800000000000000
+      internalID: 2434153161277694077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_187
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 790
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4cef8e2ef169e10800000000000000
+      internalID: 2203984127076517117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_188
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 790
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccba771b61db5940800000000000000
+      internalID: 5286048845535034563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_189
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 790
+        width: 43
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aec17bfe3b6e5d10800000000000000
+      internalID: 2116246793161395879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_190
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 790
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72c2afa68cfd2860800000000000000
+      internalID: 7506933809298981498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_191
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 790
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b451fcaa7f764490800000000000000
+      internalID: -7762376742862236492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_192
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 790
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8d9014bd3d801d0800000000000000
+      internalID: -3384222181326464825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_193
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 790
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadb839c08e5b3b00800000000000000
+      internalID: 809344465267899821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_194
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 790
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d508fc6c1f860ba30800000000000000
+      internalID: 4228995437732790365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_195
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 790
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37f4e7398bcc3cb0800000000000000
+      internalID: -4882804105767749830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_196
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 790
+        width: 42
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706158740ccfd6f20800000000000000
+      internalID: 3417665595007899143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_197
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 609
+        width: 43
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc1bae4557389da0800000000000000
+      internalID: -5937935269156414255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_198
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 609
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d0554b3ad7d45b0800000000000000
+      internalID: -5382507837579260661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_199
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 609
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2237b1b116705b9e0800000000000000
+      internalID: -1606369578439707870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_200
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 609
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792d113e42e3284c0800000000000000
+      internalID: -4286795567153950057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_201
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 609
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27d4a8cc93c7e030800000000000000
+      internalID: 3524000311589263148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_202
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 609
+        width: 110
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb93fa0cc0de21850800000000000000
+      internalID: 6346395463946549692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_203
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 609
+        width: 102
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c462d1b92bf2ba0800000000000000
+      internalID: -6111469790039749501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_204
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 609
+        width: 93
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f92711c2c847710800000000000000
+      internalID: 1690129881069952906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_205
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 609
+        width: 91
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3c40b369b9dc610800000000000000
+      internalID: 1643140508597666764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_206
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 444
+        width: 104
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e711f4c6e33e2c7d0800000000000000
+      internalID: -2899505352828579458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_207
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 444
+        width: 119
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5371a933861d4f50800000000000000
+      internalID: 6867169759673283422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_208
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 444
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ce12a000d452250800000000000000
+      internalID: 5919221947813719079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_209
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 444
+        width: 45
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eff144b030903a90800000000000000
+      internalID: -7336205254129483801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_210
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 444
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e3e3a11aa2fe2e0800000000000000
+      internalID: -2094408430285603310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_211
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 444
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65df82ac4a66a110800000000000000
+      internalID: 1271820822156137838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_212
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 444
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cda7d5cba7e38530800000000000000
+      internalID: 3856180430903946696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_213
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 444
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e8c2cc2967eb650800000000000000
+      internalID: 6250563705699602077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_214
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 444
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0256e01b996d85ba0800000000000000
+      internalID: -6099889739684485856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_215
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 444
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc70949c36a774540800000000000000
+      internalID: 4992093280960841679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_216
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 444
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aebd026797a2090800000000000000
+      internalID: -8058495034961696150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_217
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 444
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fc35da65e970c90800000000000000
+      internalID: -7203614983843491949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_218
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 444
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4eaf2e7cebe73c0800000000000000
+      internalID: -4359837623532198716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_219
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 444
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623d483f80ee4eb40800000000000000
+      internalID: 5468757569747342118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_220
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 347
+        width: 19
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b462d932bdd07090800000000000000
+      internalID: -8038681577312328524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_221
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 347
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5f975f65a0e4e20800000000000000
+      internalID: 3336615742529992186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_222
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 347
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd24b1f97a23fb50800000000000000
+      internalID: 6625686180026658241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_223
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 347
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f2f884c8ba15f90800000000000000
+      internalID: -6966598529564332267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_224
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 347
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ea6e65e8dc446c0800000000000000
+      internalID: -4159974144556487147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_225
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 347
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57886cd6ee1636070800000000000000
+      internalID: 8098424231614122101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_226
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 347
+        width: 21
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e58f0b56410634d0800000000000000
+      internalID: -3155333087239371288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_227
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 347
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e11b63461fcebe50800000000000000
+      internalID: 6827121779667571173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_228
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 347
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465cc994551e9a850800000000000000
+      internalID: 6388885302825239908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_229
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 347
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d471b0ccba46270800000000000000
+      internalID: 8242902110842604880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_230
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 347
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8584dde7536ca31b0800000000000000
+      internalID: -5676006447283091368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_231
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 347
+        width: 71
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190746ca757d8bc00800000000000000
+      internalID: 916719295724286097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_232
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 347
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b596584547eda50800000000000000
+      internalID: 6547798814607629103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_233
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 347
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e10c34894f199d0800000000000000
+      internalID: -2769163361047273900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_234
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 347
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d553bb02234a660800000000000000
+      internalID: 7396091604210375983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_235
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 347
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2e5b8e6521b4210800000000000000
+      internalID: 1318167480416723681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_236
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 347
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3330c7556f43f62e0800000000000000
+      internalID: -2130425866122165453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_237
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 347
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c432c6f6fb12e4c80800000000000000
+      internalID: -8336688754124381364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_238
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 347
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af14cc55abce1aab0800000000000000
+      internalID: -4998453826357018118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_239
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 347
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a826cc9757b17670800000000000000
+      internalID: 8534804355764070567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_240
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaf8562beb2c2490800000000000000
+      internalID: -7769786968160273759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_241
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 235
+        width: 34
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a389eb7eb3179f0800000000000000
+      internalID: -472530619376059797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_242
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 235
+        width: 33
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af74fa70934ae1a60800000000000000
+      internalID: 7646729782170699770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_243
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 235
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189e8d7fbf84c2e50800000000000000
+      internalID: 6785878985572673921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_244
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 235
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f861467fa177b4370800000000000000
+      internalID: 8307864895318398607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_245
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 235
+        width: 93
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9146cdebc1cc86e0800000000000000
+      internalID: -1833877866634919521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_246
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 235
+        width: 105
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c160d7b513eb94bc0800000000000000
+      internalID: -3798295691512707556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_247
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 235
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fd238a38e77dcd0800000000000000
+      internalID: -2533417161444892918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_248
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 235
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d729cc0629ad730800000000000000
+      internalID: 4024690161455627648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_249
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 235
+        width: 34
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34d82d1cc28eb480800000000000000
+      internalID: -8881517601953885123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_250
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 235
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb210fbeb216f6f0800000000000000
+      internalID: -651312485650846790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_251
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 235
+        width: 28
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59278a028991fc540800000000000000
+      internalID: 5030267449969767061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_252
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 235
+        width: 30
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8537ec61839b03440800000000000000
+      internalID: 4913630844013146968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_253
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 235
+        width: 30
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b59713936e5ebcd0800000000000000
+      internalID: -2540489358027811405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_254
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 235
+        width: 30
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd9d2ecda20dfd50800000000000000
+      internalID: 6772572360146787803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_255
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 235
+        width: 31
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe7da75feac4b040800000000000000
+      internalID: 4662574643552288502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_256
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b329424b5a61da0800000000000000
+      internalID: -5974405662534124708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_257
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 119
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f197ef98978ed6c0800000000000000
+      internalID: -4116703919782522382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_258
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 119
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a26034a686270050800000000000000
+      internalID: 5766620207593317026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_259
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 119
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a119c3d7c2b916b10800000000000000
+      internalID: 1973028727146975514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_260
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 119
+        width: 75
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151d9cfe47e2cc9e0800000000000000
+      internalID: -1599852687849303727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_261
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 119
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373ddea1b68b0bef0800000000000000
+      internalID: -94372822021975181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_262
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 119
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fba0b6fec9d7b870800000000000000
+      internalID: 8698660688214666231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_263
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 119
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d0433e82aefb800800000000000000
+      internalID: 630479934186589475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_264
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 119
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc396f0be7e6aba20800000000000000
+      internalID: 3078894785675039692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_265
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 119
+        width: 22
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831eede9dff0abcc0800000000000000
+      internalID: -3694622962337521352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_266
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 119
+        width: 26
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45e6c928000877c0800000000000000
+      internalID: -4073505827895974581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_267
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 119
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c246ce7c651045670800000000000000
+      internalID: 8526441466752164908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_268
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 119
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f859b3b28dc9fe0800000000000000
+      internalID: -1180831322083061979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_269
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 119
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01711becb10c0880800000000000000
+      internalID: -8643531673921556211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_270
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 119
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4454768f73f9260800000000000000
+      internalID: 7106460277037942002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_271
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 119
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3390d6373b43190800000000000000
+      internalID: -7983558931089116205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_272
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 23
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44862ec9f9f50da0800000000000000
+      internalID: -5979098078963661745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_273
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 27
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd72263562b6e8330800000000000000
+      internalID: 3715024554979108831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_274
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6d7d5f76a8a5200800000000000000
+      internalID: 169600115090642664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_275
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3507830ab5c1730800000000000000
+      internalID: 3971149715133715412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_276
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ea9f1b53b6a00c0800000000000000
+      internalID: -4608753390296912255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_277
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646d6da2a4bbac9e0800000000000000
+      internalID: -1600260790356093370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 328-3283715_liu-kang-by-handtoeknee-mortal-kombat-sprite-sheets_278
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a9194fc2625f9a0800000000000000
+      internalID: -6200007337482020320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -12,6 +12,7 @@ public class PlayerMovement : MonoBehaviour
     public float FuerzaDeSalto = 5;
     public Rigidbody2D rb;
     public Animator anim;
+    public BoxCollider2D bc;
 
 
     //Checkeos para ver donde esta el Jugador
@@ -37,23 +38,29 @@ public class PlayerMovement : MonoBehaviour
         controls.Gameplay.MovimientoHorizontal.performed += ctx => {
             vector = ctx.ReadValue<Vector2>();
             MovimientoLateral();
-
         };
 
         controls.Gameplay.Saltar.performed += ctx => {
             Saltar();
         };
 
+        controls.Gameplay.Agachar.performed += ctx => {
+            Agachado();
+        };
+        controls.Gameplay.Agachar.canceled += ctx => {
+            Desagachado();
+        };
+
     }
 
     void MovimientoLateral() {
-        rb.velocity = new Vector2(vector.x * Velocidad, rb.velocity.y);
-        if(vector.x == -1)
-            transform.localScale = new Vector2(orientacion.x * -1, orientacion.y);
-        if(vector.x == 1)
-            transform.localScale = new Vector2(orientacion.x, orientacion.y);
+            rb.velocity = new Vector2(vector.x * Velocidad, rb.velocity.y);
+            if(vector.x == -1)
+                transform.localScale = new Vector2(orientacion.x * -1, orientacion.y);
+            if(vector.x == 1)
+                transform.localScale = new Vector2(orientacion.x, orientacion.y);
 
-        anim.SetFloat("velocidad",Mathf.Abs(rb.velocity.x));
+            anim.SetFloat("velocidad",Mathf.Abs(rb.velocity.x));
     }
 
     void Saltar() {
@@ -65,6 +72,16 @@ public class PlayerMovement : MonoBehaviour
         estaSaltando = true;
         contadorSaltos++;
         anim.SetBool("salto", estaSaltando);
+    }
+
+    void Agachado() {
+        anim.SetBool("agachado",true);
+        rb.velocity = Vector2.zero;
+    }
+
+    void Desagachado() {
+        anim.SetBool("agachado",false);
+        rb.velocity = new Vector2(vector.x * Velocidad, rb.velocity.y);
     }
 
 
