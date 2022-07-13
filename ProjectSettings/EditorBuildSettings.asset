@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Nivel1/Nivel1.unity
     guid: bdd827f3455981c4f9807b4914f295b9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Nivel de prueba/pelea2.unity
     guid: 2ef6af77ce30060478e338c498b373d0
+  - enabled: 1
+    path: Assets/Scenes/Nivel de prueba/pelea.unity
+    guid: 2ab11ba62cada834aa07dce22a6b64ce
   m_configObjects: {}
