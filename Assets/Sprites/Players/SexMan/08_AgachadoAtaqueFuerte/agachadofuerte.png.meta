@@ -1,0 +1,432 @@
+fileFormatVersion: 2
+guid: 300dd43963d3733479e0fac15579d329
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6508203573895774636
+    second: agachadofuerte_0
+  - first:
+      213: -7654233575664772068
+    second: agachadofuerte_1
+  - first:
+      213: -958795975070674793
+    second: agachadofuerte_2
+  - first:
+      213: -7842400548973856627
+    second: agachadofuerte_3
+  - first:
+      213: 6902813580916878698
+    second: agachadofuerte_4
+  - first:
+      213: 195688446525665569
+    second: agachadofuerte_5
+  - first:
+      213: 5144865919958063685
+    second: agachadofuerte_6
+  - first:
+      213: -2161066237142330071
+    second: agachadofuerte_7
+  - first:
+      213: 8385505251604620293
+    second: agachadofuerte_8
+  - first:
+      213: -7924245642689946633
+    second: agachadofuerte_9
+  - first:
+      213: -7054954756918806747
+    second: agachadofuerte_10
+  - first:
+      213: -4144634497626007078
+    second: agachadofuerte_11
+  - first:
+      213: -5985917986789532319
+    second: agachadofuerte_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: agachadofuerte_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1277
+        width: 377
+        height: 397
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eb30cd4573ea5a0800000000000000
+      internalID: -6508203573895774636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agachadofuerte_1
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1246
+        width: 379
+        height: 453
+      alignment: 9
+      pivot: {x: 0.49379504, y: 0.6169423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c12a6ed13b6c590800000000000000
+      internalID: -7654233575664772068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agachadofuerte_2
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1486
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79096ddf32ca1b2f0800000000000000
+      internalID: -958795975070674793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agachadofuerte_3
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1201
+        width: 348
+        height: 498
+      alignment: 9
+      pivot: {x: 0.51351404, y: 0.61972547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88b51460423a2390800000000000000
+      internalID: -7842400548973856627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agachadofuerte_4
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1182
+        width: 344
+        height: 515
+      alignment: 9
+      pivot: {x: 0.51367116, y: 0.59954464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dea411168bbcf50800000000000000
+      internalID: 6902813580916878698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agachadofuerte_5
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1180
+        width: 351
+        height: 537
+      alignment: 9
+      pivot: {x: 0.4999986, y: 0.5905232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1217fc5fa9937b200800000000000000
+      internalID: 195688446525665569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agachadofuerte_6
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 1182
+        width: 367
+        height: 545
+      alignment: 9
+      pivot: {x: 0.51281375, y: 0.59212995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a1d18ab4c366740800000000000000
+      internalID: 5144865919958063685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agachadofuerte_7
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 1180
+        width: 385
+        height: 582
+      alignment: 9
+      pivot: {x: 0.5244306, y: 0.58686644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9259a0705b95202e0800000000000000
+      internalID: -2161066237142330071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agachadofuerte_8
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1312
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504e018199c4f5470800000000000000
+      internalID: 8385505251604620293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agachadofuerte_9
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1273
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb578a829c670290800000000000000
+      internalID: -7924245642689946633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agachadofuerte_10
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1262
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527f66ff604c71e90800000000000000
+      internalID: -7054954756918806747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agachadofuerte_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 467
+        width: 406
+        height: 627
+      alignment: 9
+      pivot: {x: 0.4826238, y: 0.5762335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad91c2532ec4b76c0800000000000000
+      internalID: -4144634497626007078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: agachadofuerte_12
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 436
+        width: 424
+        height: 634
+      alignment: 9
+      pivot: {x: 0.5388224, y: 0.5664729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dd9c64e4fbdeca0800000000000000
+      internalID: -5985917986789532319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
