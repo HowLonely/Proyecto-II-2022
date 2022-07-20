@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: b9d53a214547b1b409ca223c579a8a2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2401135711197584893
+    second: Derrota_0
+  - first:
+      213: -6100477060502866924
+    second: Derrota_1
+  - first:
+      213: -3040763633702077399
+    second: Derrota_2
+  - first:
+      213: -4469559408032052304
+    second: Derrota_3
+  - first:
+      213: -4580613044227339228
+    second: Derrota_4
+  - first:
+      213: 5255206036456820525
+    second: Derrota_5
+  - first:
+      213: -7722335174126338603
+    second: Derrota_6
+  - first:
+      213: -5794159037889996184
+    second: Derrota_7
+  - first:
+      213: 4650969756165213509
+    second: Derrota_8
+  - first:
+      213: 1205239775537225734
+    second: Derrota_9
+  - first:
+      213: 3856969719987271609
+    second: Derrota_10
+  - first:
+      213: 6454216651075235650
+    second: Derrota_11
+  - first:
+      213: -5046336798102989747
+    second: Derrota_12
+  - first:
+      213: -8121416445329922899
+    second: Derrota_13
+  - first:
+      213: 2417545342300023056
+    second: Derrota_14
+  - first:
+      213: 3924598165332889020
+    second: Derrota_15
+  - first:
+      213: -6523586504071770818
+    second: Derrota_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Derrota_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1312
+        width: 283
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfddf63253c825120800000000000000
+      internalID: 2401135711197584893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_1
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1277
+        width: 273
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414be486f60c65ba0800000000000000
+      internalID: -6100477060502866924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_2
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1275
+        width: 262
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf247f5990dc5d0800000000000000
+      internalID: -3040763633702077399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_3
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1230
+        width: 254
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb8ebd266fe8f1c0800000000000000
+      internalID: -4469559408032052304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_4
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1227
+        width: 242
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c0f4594b46e60c0800000000000000
+      internalID: -4580613044227339228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_5
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 1227
+        width: 240
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f4f700c0e3ee840800000000000000
+      internalID: 5255206036456820525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_6
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1225
+        width: 233
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddf1b5e211c4d490800000000000000
+      internalID: -7722335174126338603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_7
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 1223
+        width: 239
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a9276cd03079fa0800000000000000
+      internalID: -5794159037889996184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_8
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 1223
+        width: 238
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d0051f9509b8040800000000000000
+      internalID: 4650969756165213509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 441
+        width: 98
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6006112b03fd9b010800000000000000
+      internalID: 1205239775537225734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_10
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 461
+        width: 92
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b777457685b68530800000000000000
+      internalID: 3856969719987271609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_11
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 437
+        width: 86
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f20c629dbf19950800000000000000
+      internalID: 6454216651075235650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_12
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 434
+        width: 88
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d6143b6fc7f9b0800000000000000
+      internalID: -5046336798102989747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_13
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 436
+        width: 86
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da42817a5ceea4f80800000000000000
+      internalID: -8121416445329922899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_14
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 459
+        width: 84
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019613c1ea8dc8120800000000000000
+      internalID: 2417545342300023056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_15
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 451
+        width: 88
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd01daec39f67630800000000000000
+      internalID: 3924598165332889020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Derrota_16
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 441
+        width: 90
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d054353a09775a0800000000000000
+      internalID: -6523586504071770818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

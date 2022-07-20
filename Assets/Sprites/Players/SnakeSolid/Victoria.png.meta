@@ -1,7 +1,157 @@
 fileFormatVersion: 2
 guid: be6c8646f64d47c4b9c2c513ec216367
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7093393678910318656
+    second: Victoria_0
+  - first:
+      213: 1789344779254463003
+    second: Victoria_1
+  - first:
+      213: -5133556124280542110
+    second: Victoria_2
+  - first:
+      213: -4216827152428618362
+    second: Victoria_3
+  - first:
+      213: -5442816989682466059
+    second: Victoria_4
+  - first:
+      213: -6808333125860340870
+    second: Victoria_5
+  - first:
+      213: 3567466913925067402
+    second: Victoria_6
+  - first:
+      213: 1185430902158325238
+    second: Victoria_7
+  - first:
+      213: -4310749877683604105
+    second: Victoria_8
+  - first:
+      213: 8941132406752905081
+    second: Victoria_9
+  - first:
+      213: 4695921426238951429
+    second: Victoria_10
+  - first:
+      213: 3654798265970930674
+    second: Victoria_11
+  - first:
+      213: -3421501757934570984
+    second: Victoria_12
+  - first:
+      213: 6645202974670818820
+    second: Victoria_13
+  - first:
+      213: -630539552126859256
+    second: Victoria_14
+  - first:
+      213: 8630280459862533456
+    second: Victoria_15
+  - first:
+      213: -1615724702437904007
+    second: Victoria_16
+  - first:
+      213: 754199337652494609
+    second: Victoria_17
+  - first:
+      213: 9047652404085239607
+    second: Victoria_18
+  - first:
+      213: 3272724545398550026
+    second: Victoria_19
+  - first:
+      213: 3953041617200134118
+    second: Victoria_20
+  - first:
+      213: 7698378091316920779
+    second: Victoria_21
+  - first:
+      213: -1134955077842533889
+    second: Victoria_22
+  - first:
+      213: 2550986529069755474
+    second: Victoria_23
+  - first:
+      213: -3067589231275775385
+    second: Victoria_24
+  - first:
+      213: 6878623324340751639
+    second: Victoria_25
+  - first:
+      213: 1401321500468083193
+    second: Victoria_26
+  - first:
+      213: -8818500843241890438
+    second: Victoria_27
+  - first:
+      213: 2379318003693301255
+    second: Victoria_28
+  - first:
+      213: 8608766951277434401
+    second: Victoria_29
+  - first:
+      213: 7636749641475663318
+    second: Victoria_30
+  - first:
+      213: -7746399896054778337
+    second: Victoria_31
+  - first:
+      213: 1819088827108946739
+    second: Victoria_32
+  - first:
+      213: -6903449035267716318
+    second: Victoria_33
+  - first:
+      213: -7780232001334839154
+    second: Victoria_34
+  - first:
+      213: -6118140868532570479
+    second: Victoria_35
+  - first:
+      213: -8946035413919758114
+    second: Victoria_36
+  - first:
+      213: 8961403469061950708
+    second: Victoria_37
+  - first:
+      213: -5406241923756019384
+    second: Victoria_38
+  - first:
+      213: 60281784177162475
+    second: Victoria_39
+  - first:
+      213: 704901037094397615
+    second: Victoria_40
+  - first:
+      213: -224782195033866842
+    second: Victoria_41
+  - first:
+      213: -1645847447790332391
+    second: Victoria_42
+  - first:
+      213: 995736249818654017
+    second: Victoria_43
+  - first:
+      213: -7577888156016271508
+    second: Victoria_44
+  - first:
+      213: -6320050893186358099
+    second: Victoria_45
+  - first:
+      213: 2979602259621371946
+    second: Victoria_46
+  - first:
+      213: -8881834089727563012
+    second: Victoria_47
+  - first:
+      213: -4166312978649177913
+    second: Victoria_48
+  - first:
+      213: 4735635753396760471
+    second: Victoria_49
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +182,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +191,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +225,1083 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Victoria_0
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 2174
+        width: 393
+        height: 823
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0486373f7fbc07260800000000000000
+      internalID: 7093393678910318656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_1
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 2994
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a792ca89705d810800000000000000
+      internalID: 1789344779254463003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_2
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2191
+        width: 434
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c2ab957e1f1c8b0800000000000000
+      internalID: -5133556124280542110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_3
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2174
+        width: 390
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d254ceb02da75c0800000000000000
+      internalID: -4216827152428618362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_4
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 2168
+        width: 392
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2048009ca3774b0800000000000000
+      internalID: -5442816989682466059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_5
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 2906
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bc1981811f381a0800000000000000
+      internalID: -6808333125860340870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2215
+        width: 419
+        height: 691
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827678c140328130800000000000000
+      internalID: 3567466913925067402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_7
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2191
+        width: 525
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5fae4ff1f737010800000000000000
+      internalID: 1185430902158325238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_8
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 2871
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7753c1953d32d24c0800000000000000
+      internalID: -4310749877683604105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_9
+      rect:
+        serializedVersion: 2
+        x: 4989
+        y: 2170
+        width: 410
+        height: 736
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9778d324d88451c70800000000000000
+      internalID: 8941132406752905081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_10
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 2191
+        width: 527
+        height: 671
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5005e1838a34b2140800000000000000
+      internalID: 4695921426238951429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_11
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 2191
+        width: 401
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f339e0b8a378b230800000000000000
+      internalID: 3654798265970930674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_12
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 2757
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8127fef67426480d0800000000000000
+      internalID: -3421501757934570984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_13
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 2669
+        width: 9
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e8f9dc5e0883c50800000000000000
+      internalID: 6645202974670818820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_14
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 2687
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80805aa3e9fdf37f0800000000000000
+      internalID: -630539552126859256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_15
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2522
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055e9126a5ae4c770800000000000000
+      internalID: 8630280459862533456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_16
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2476
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9717d5091fac399e0800000000000000
+      internalID: -1615724702437904007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_17
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 2464
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111ac9a3d44777a00800000000000000
+      internalID: 754199337652494609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_18
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 2364
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fa5bccce7bf8d70800000000000000
+      internalID: 9047652404085239607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_19
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 2361
+        width: 50
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eae2862ad0b6d20800000000000000
+      internalID: 3272724545398550026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_20
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 2361
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7bc8f18660cd630800000000000000
+      internalID: 3953041617200134118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_21
+      rect:
+        serializedVersion: 2
+        x: 4737
+        y: 2215
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc14897161226da60800000000000000
+      internalID: 7698378091316920779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_22
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2080
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff18b25be54df30f0800000000000000
+      internalID: -1134955077842533889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_23
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1242
+        width: 399
+        height: 826
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c62048bbce66320800000000000000
+      internalID: 2550986529069755474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_24
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 2062
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a6ef0d8dbbd65d0800000000000000
+      internalID: -3067589231275775385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_25
+      rect:
+        serializedVersion: 2
+        x: 5054
+        y: 1948
+        width: 8
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d0c0f0877c57f50800000000000000
+      internalID: 6878623324340751639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_26
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1233
+        width: 375
+        height: 809
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9748bea7e727310800000000000000
+      internalID: 1401321500468083193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_27
+      rect:
+        serializedVersion: 2
+        x: 4438
+        y: 2013
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d951b94346e9580800000000000000
+      internalID: -8818500843241890438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_28
+      rect:
+        serializedVersion: 2
+        x: 5279
+        y: 1058
+        width: 372
+        height: 958
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ea4d14e19050120800000000000000
+      internalID: 2379318003693301255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1245
+        width: 396
+        height: 762
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12693055eeb787770800000000000000
+      internalID: 8608766951277434401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_30
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1099
+        width: 384
+        height: 908
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5afb2765f2bf960800000000000000
+      internalID: 7636749641475663318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_31
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 1055
+        width: 369
+        height: 952
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16388336524f7490800000000000000
+      internalID: -7746399896054778337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_32
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 1975
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333f5ba76a3be3910800000000000000
+      internalID: 1819088827108946739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_33
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 1966
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bcadfada50230a0800000000000000
+      internalID: -6903449035267716318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_34
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 1975
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e887f4a5730170490800000000000000
+      internalID: -7780232001334839154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_35
+      rect:
+        serializedVersion: 2
+        x: 4664
+        y: 1058
+        width: 372
+        height: 925
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196f05d9b4ff71ba0800000000000000
+      internalID: -6118140868532570479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_36
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1239
+        width: 401
+        height: 709
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed88f3d603c49d380800000000000000
+      internalID: -8946035413919758114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_37
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 1239
+        width: 404
+        height: 730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc046eb9fc4d5c70800000000000000
+      internalID: 8961403469061950708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_38
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 1939
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841b2b42d9b29f4b0800000000000000
+      internalID: -5406241923756019384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_39
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 1046
+        width: 375
+        height: 902
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be87e4c96f926d000800000000000000
+      internalID: 60281784177162475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_40
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1916
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6e0dd22cf48c900800000000000000
+      internalID: 704901037094397615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_41
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 1526
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad7c29d8c961ecf0800000000000000
+      internalID: -224782195033866842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_42
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 1515
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91659ff5776c829e0800000000000000
+      internalID: -1645847447790332391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_43
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 372
+        height: 964
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145ab64f7d091dd00800000000000000
+      internalID: 995736249818654017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_44
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 0
+        width: 413
+        height: 964
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f92091fdee5d690800000000000000
+      internalID: -7577888156016271508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_45
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 0
+        width: 373
+        height: 958
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4ac3d923baa48a0800000000000000
+      internalID: -6320050893186358099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_46
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 0
+        width: 372
+        height: 958
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20eea0f77ca95920800000000000000
+      internalID: 2979602259621371946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_47
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 0
+        width: 372
+        height: 955
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa65df04f26db480800000000000000
+      internalID: -8881834089727563012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_48
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 0
+        width: 369
+        height: 937
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c024848b684e26c0800000000000000
+      internalID: -4166312978649177913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Victoria_49
+      rect:
+        serializedVersion: 2
+        x: 5508
+        y: 2160
+        width: 444
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f6ad290ab58b140800000000000000
+      internalID: 4735635753396760471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

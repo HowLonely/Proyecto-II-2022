@@ -1,7 +1,73 @@
 fileFormatVersion: 2
 guid: 347279cad12c7ac478452a8a3cc736ff
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5841131341089808960
+    second: saltoFfuerte_0
+  - first:
+      213: -2562198208362721686
+    second: saltoFfuerte_1
+  - first:
+      213: 2256859013573081400
+    second: saltoFfuerte_2
+  - first:
+      213: 7129358358629985992
+    second: saltoFfuerte_3
+  - first:
+      213: 2240730281414973562
+    second: saltoFfuerte_4
+  - first:
+      213: -7726441181166771057
+    second: saltoFfuerte_5
+  - first:
+      213: -6009023382774834626
+    second: saltoFfuerte_6
+  - first:
+      213: 2509869774673794720
+    second: saltoFfuerte_7
+  - first:
+      213: 554744863159667415
+    second: saltoFfuerte_8
+  - first:
+      213: -8017811387371236557
+    second: saltoFfuerte_9
+  - first:
+      213: 8146954017915348745
+    second: saltoFfuerte_10
+  - first:
+      213: 8194617270371556847
+    second: saltoFfuerte_11
+  - first:
+      213: 8105348438511915276
+    second: saltoFfuerte_12
+  - first:
+      213: 1846484490019945922
+    second: saltoFfuerte_13
+  - first:
+      213: -5780508022780374203
+    second: saltoFfuerte_14
+  - first:
+      213: -4415928558422397142
+    second: saltoFfuerte_15
+  - first:
+      213: 2391075111090764781
+    second: saltoFfuerte_16
+  - first:
+      213: -1517018847920428442
+    second: saltoFfuerte_17
+  - first:
+      213: -5712421824288030850
+    second: saltoFfuerte_18
+  - first:
+      213: 7107759495139023724
+    second: saltoFfuerte_19
+  - first:
+      213: -582855147911555698
+    second: saltoFfuerte_20
+  - first:
+      213: -5977015987532275613
+    second: saltoFfuerte_21
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +98,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +107,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +141,495 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: saltoFfuerte_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 945
+        width: 489
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0422f00d10edf0150800000000000000
+      internalID: 5841131341089808960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_1
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 998
+        width: 678
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ec56afd4e317cd0800000000000000
+      internalID: -2562198208362721686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_2
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1045
+        width: 709
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8397924c059f15f10800000000000000
+      internalID: 2256859013573081400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_3
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1678
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce2a9a77a190f260800000000000000
+      internalID: 7129358358629985992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_4
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1584
+        width: 5
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78533da15ca81f10800000000000000
+      internalID: 2240730281414973562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_5
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1086
+        width: 782
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ea92aeaa26c490800000000000000
+      internalID: -7726441181166771057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 824
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a90be0219ab9ca0800000000000000
+      internalID: -6009023382774834626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_7
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 885
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6dbef1349d4d220800000000000000
+      internalID: 2509869774673794720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_8
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 787
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daca9d8389d2b700800000000000000
+      internalID: 554744863159667415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_9
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 104
+        width: 685
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333d7abf5030bb090800000000000000
+      internalID: -8017811387371236557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 754
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907294fc38bcf0170800000000000000
+      internalID: 8146954017915348745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_11
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 170
+        width: 510
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed17ce8df029b170800000000000000
+      internalID: 8194617270371556847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 180
+        width: 816
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01154af57bfb7070800000000000000
+      internalID: 8105348438511915276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_13
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 160
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd38ee4cd700a910800000000000000
+      internalID: 1846484490019945922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_14
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 74
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54351e8649287cfa0800000000000000
+      internalID: -5780508022780374203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 21
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2feab96f5877b2c0800000000000000
+      internalID: -4415928558422397142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 16
+        width: 127
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debb7d3252ece2120800000000000000
+      internalID: 2391075111090764781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 14
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a6124356772fae0800000000000000
+      internalID: -1517018847920428442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_18
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 12
+        width: 23
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f7f14dd9669b0b0800000000000000
+      internalID: -5712421824288030850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_19
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 10
+        width: 29
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bdba03a95d3a260800000000000000
+      internalID: 7107759495139023724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_20
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 8
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e855931c45849e7f0800000000000000
+      internalID: -582855147911555698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saltoFfuerte_21
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 164
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360ee4e70af5d0da0800000000000000
+      internalID: -5977015987532275613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

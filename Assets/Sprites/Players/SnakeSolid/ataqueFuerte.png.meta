@@ -1,7 +1,58 @@
 fileFormatVersion: 2
 guid: 187e45d1b6ddd1d4cae93602c825bf8e
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8870852345330371501
+    second: ataqueFuerte_0
+  - first:
+      213: -358258649650950866
+    second: ataqueFuerte_1
+  - first:
+      213: -8500050296869922670
+    second: ataqueFuerte_2
+  - first:
+      213: -7439686343813387642
+    second: ataqueFuerte_3
+  - first:
+      213: 8506640097991949823
+    second: ataqueFuerte_4
+  - first:
+      213: 6225936307226784457
+    second: ataqueFuerte_5
+  - first:
+      213: 5980424728694763159
+    second: ataqueFuerte_6
+  - first:
+      213: 4549420427605406986
+    second: ataqueFuerte_7
+  - first:
+      213: -8754732694975084773
+    second: ataqueFuerte_8
+  - first:
+      213: 7529877849374867336
+    second: ataqueFuerte_9
+  - first:
+      213: 8902785156438282984
+    second: ataqueFuerte_10
+  - first:
+      213: 4546037376277074808
+    second: ataqueFuerte_11
+  - first:
+      213: 8457917159165713230
+    second: ataqueFuerte_12
+  - first:
+      213: 8400423762122678769
+    second: ataqueFuerte_13
+  - first:
+      213: -7382953627831631754
+    second: ataqueFuerte_14
+  - first:
+      213: 1061886709416458015
+    second: ataqueFuerte_15
+  - first:
+      213: 5773666457257408077
+    second: ataqueFuerte_16
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +83,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +92,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +126,390 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ataqueFuerte_0
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 1990
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35474adaac664e480800000000000000
+      internalID: -8870852345330371501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_1
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 1975
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d08d108a5370bf0800000000000000
+      internalID: -358258649650950866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1186
+        width: 402
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2985d1a4a41c90a80800000000000000
+      internalID: -8500050296869922670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_3
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1207
+        width: 373
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aadacfface0c890800000000000000
+      internalID: -7439686343813387642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_4
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1207
+        width: 364
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd77e85918ad0670800000000000000
+      internalID: 8506640097991949823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_5
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1275
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2b572c518f66650800000000000000
+      internalID: 6225936307226784457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_6
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1186
+        width: 375
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e20d7ea9cbef250800000000000000
+      internalID: 5980424728694763159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_7
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 1186
+        width: 535
+        height: 732
+      alignment: 9
+      pivot: {x: 0.49999863, y: 0.51284975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05735966c9c22f30800000000000000
+      internalID: 4549420427605406986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_8
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 1168
+        width: 441
+        height: 711
+      alignment: 9
+      pivot: {x: 0.6493039, y: 0.50661445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17038c9ff0f08680800000000000000
+      internalID: -8754732694975084773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_9
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1168
+        width: 397
+        height: 727
+      alignment: 9
+      pivot: {x: 0.6303114, y: 0.5097032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f321e42008f7860800000000000000
+      internalID: 7529877849374867336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 482
+        height: 736
+      alignment: 9
+      pivot: {x: 0.6493039, y: 0.5063897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2df194eeb0d8b70800000000000000
+      internalID: 8902785156438282984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 439
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873d4a468e4c61f30800000000000000
+      internalID: 4546037376277074808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_12
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 203
+        width: 596
+        height: 734
+      alignment: 9
+      pivot: {x: 0.6493039, y: 0.5063895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bd0c328de806570800000000000000
+      internalID: 8457917159165713230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_13
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 197
+        width: 625
+        height: 740
+      alignment: 9
+      pivot: {x: 0.6493039, y: 0.49682212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1a21087ec449470800000000000000
+      internalID: 8400423762122678769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_14
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 141
+        width: 748
+        height: 744
+      alignment: 9
+      pivot: {x: 0.6493039, y: 0.5031606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6700ae3caca7a8990800000000000000
+      internalID: -7382953627831631754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_15
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 141
+        width: 1054
+        height: 746
+      alignment: 9
+      pivot: {x: 0.6493039, y: 0.51576096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17f97a06549cbe00800000000000000
+      internalID: 1061886709416458015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataqueFuerte_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 389
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d467a6c7d0f202050800000000000000
+      internalID: 5773666457257408077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

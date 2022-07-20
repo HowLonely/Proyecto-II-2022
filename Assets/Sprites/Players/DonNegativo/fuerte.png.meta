@@ -1,7 +1,91 @@
 fileFormatVersion: 2
 guid: f0cad8a4a69c4dc419ab3c7f466c3298
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4946441494630669851
+    second: fuerte_0
+  - first:
+      213: 5445624423806439014
+    second: fuerte_1
+  - first:
+      213: 3720085383566757455
+    second: fuerte_2
+  - first:
+      213: 5221635763891891605
+    second: fuerte_3
+  - first:
+      213: -8716429882408790293
+    second: fuerte_4
+  - first:
+      213: -2015750237362715601
+    second: fuerte_5
+  - first:
+      213: 2944253471602332834
+    second: fuerte_6
+  - first:
+      213: -3269788313965466980
+    second: fuerte_7
+  - first:
+      213: -6098850630255160643
+    second: fuerte_8
+  - first:
+      213: -3636995363735320314
+    second: fuerte_9
+  - first:
+      213: -3260835514899322069
+    second: fuerte_10
+  - first:
+      213: -2677780974211859481
+    second: fuerte_11
+  - first:
+      213: 4026604439901778618
+    second: fuerte_12
+  - first:
+      213: 7034363276613341709
+    second: fuerte_13
+  - first:
+      213: -2735861372308456252
+    second: fuerte_14
+  - first:
+      213: 7542042289822081957
+    second: fuerte_15
+  - first:
+      213: 6880594049449144953
+    second: fuerte_16
+  - first:
+      213: 1459863499348563928
+    second: fuerte_17
+  - first:
+      213: -730914584582904891
+    second: fuerte_18
+  - first:
+      213: -644257254589216867
+    second: fuerte_19
+  - first:
+      213: -385245891058330182
+    second: fuerte_20
+  - first:
+      213: 5135827735697405542
+    second: fuerte_21
+  - first:
+      213: 7349616572120177046
+    second: fuerte_22
+  - first:
+      213: -8127198573095772894
+    second: fuerte_23
+  - first:
+      213: 4890565521968412909
+    second: fuerte_24
+  - first:
+      213: -9132859412256083058
+    second: fuerte_25
+  - first:
+      213: -3269187384167523864
+    second: fuerte_26
+  - first:
+      213: -1900429213853603690
+    second: fuerte_27
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +116,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +125,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +159,621 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: fuerte_0
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 1974
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e169420ba5ba5bb0800000000000000
+      internalID: -4946441494630669851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_1
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1880
+        width: 9
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e8c21bf8eb29b40800000000000000
+      internalID: 5445624423806439014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_2
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1136
+        width: 375
+        height: 811
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e8e9d42f560a330800000000000000
+      internalID: 3720085383566757455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_3
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 1854
+        width: 8
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d6045df0af67840800000000000000
+      internalID: 5221635763891891605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_4
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 1921
+        width: 158
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be69c6d1435090780800000000000000
+      internalID: -8716429882408790293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1163
+        width: 466
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24061ac6dd9604e0800000000000000
+      internalID: -2015750237362715601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1496
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4519fdee61cd820800000000000000
+      internalID: 2944253471602332834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_7
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1163
+        width: 466
+        height: 714
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a6d5f3ad06f92d0800000000000000
+      internalID: -3269788313965466980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_8
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1136
+        width: 460
+        height: 741
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db259753aa78c5ba0800000000000000
+      internalID: -6098850630255160643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_9
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1136
+        width: 440
+        height: 735
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60940de7cfbc68dc0800000000000000
+      internalID: -3636995363735320314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_10
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 1136
+        width: 325
+        height: 753
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ba277306f2fb2d0800000000000000
+      internalID: -3260835514899322069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_11
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 1127
+        width: 326
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7dc5346c96dad0800000000000000
+      internalID: -2677780974211859481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_12
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 1119
+        width: 343
+        height: 740
+      alignment: 9
+      pivot: {x: 0.397162, y: 0.49999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab23b5b776f51e730800000000000000
+      internalID: 4026604439901778618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_13
+      rect:
+        serializedVersion: 2
+        x: 5215
+        y: 1113
+        width: 407
+        height: 729
+      alignment: 9
+      pivot: {x: 0.397162, y: 0.49999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02579361241f9160800000000000000
+      internalID: 7034363276613341709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_14
+      rect:
+        serializedVersion: 2
+        x: 4283
+        y: 1449
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc77dcb394480ad0800000000000000
+      internalID: -2735861372308456252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_15
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 1423
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3a1ddc087baa860800000000000000
+      internalID: 7542042289822081957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_16
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1148
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972351145d7cc7f50800000000000000
+      internalID: 6880594049449144953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_17
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 1148
+        width: 96
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7da333e1a724410800000000000000
+      internalID: 1459863499348563928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_18
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 1124
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3a8c0de054bd5f0800000000000000
+      internalID: -730914584582904891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_19
+      rect:
+        serializedVersion: 2
+        x: 4570
+        y: 1116
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97cd3cb0732f07f0800000000000000
+      internalID: -644257254589216867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 193
+        width: 457
+        height: 721
+      alignment: 9
+      pivot: {x: 0.397162, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab51a4837e457aaf0800000000000000
+      internalID: -385245891058330182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 893
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666b7d56d10264740800000000000000
+      internalID: 5135827735697405542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_22
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 193
+        width: 600
+        height: 724
+      alignment: 9
+      pivot: {x: 0.397162, y: 0.49999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6991c8815551ff560800000000000000
+      internalID: 7349616572120177046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_23
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 237
+        width: 639
+        height: 718
+      alignment: 9
+      pivot: {x: 0.397162, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d909f15f3663f80800000000000000
+      internalID: -8127198573095772894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_24
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 208
+        width: 662
+        height: 709
+      alignment: 9
+      pivot: {x: 0.397162, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de833bf4e67ced340800000000000000
+      internalID: 4890565521968412909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_25
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 193
+        width: 677
+        height: 697
+      alignment: 9
+      pivot: {x: 0.397162, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83b4e4a0c0914180800000000000000
+      internalID: -9132859412256083058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_26
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 580
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9918e156381a2d0800000000000000
+      internalID: -3269187384167523864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fuerte_27
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 214
+        width: 712
+        height: 679
+      alignment: 9
+      pivot: {x: 0.397162, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6982b7be2b150a5e0800000000000000
+      internalID: -1900429213853603690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

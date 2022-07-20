@@ -14,6 +14,8 @@ public class Entidad : MonoBehaviour
     public BoxCollider2D bc;
 
 
+
+
     void Awake() {
         currentHealth = maxHealth;
         vida.setMaxHealth(maxHealth);
@@ -28,6 +30,7 @@ public class Entidad : MonoBehaviour
 
         if(currentHealth <= 0) {
             Die();
+
         }
     }
 

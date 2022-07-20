@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: 9e3db599b26c4e44dbfa2bab67d0a050
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7158491379549253407
+    second: AgachadoFuerte_0
+  - first:
+      213: -2197035250721681678
+    second: AgachadoFuerte_1
+  - first:
+      213: -7920134158383252935
+    second: AgachadoFuerte_2
+  - first:
+      213: 307301442822862365
+    second: AgachadoFuerte_3
+  - first:
+      213: -2088167827730397998
+    second: AgachadoFuerte_4
+  - first:
+      213: -7707786922098469243
+    second: AgachadoFuerte_5
+  - first:
+      213: 4532430806926563675
+    second: AgachadoFuerte_6
+  - first:
+      213: -1334109026953218139
+    second: AgachadoFuerte_7
+  - first:
+      213: -7722960565117303956
+    second: AgachadoFuerte_8
+  - first:
+      213: 6594266740952337312
+    second: AgachadoFuerte_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +62,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +71,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +105,243 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AgachadoFuerte_0
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1350
+        width: 425
+        height: 650
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1faabd7bf1185360800000000000000
+      internalID: 7158491379549253407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoFuerte_1
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1359
+        width: 436
+        height: 641
+      alignment: 9
+      pivot: {x: 0.49190962, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe09b174109281e0800000000000000
+      internalID: -2197035250721681678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoFuerte_2
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1356
+        width: 442
+        height: 644
+      alignment: 9
+      pivot: {x: 0.4920193, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93af02412f7061290800000000000000
+      internalID: -7920134158383252935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoFuerte_3
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1324
+        width: 591
+        height: 676
+      alignment: 9
+      pivot: {x: 0.49403116, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16fb6ab801c34400800000000000000
+      internalID: 307301442822862365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoFuerte_4
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 1447
+        width: 38
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d40bbc9c665503e0800000000000000
+      internalID: -2088167827730397998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoFuerte_5
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1324
+        width: 635
+        height: 676
+      alignment: 9
+      pivot: {x: 0.49444476, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5865be7c1a0780590800000000000000
+      internalID: -7707786922098469243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoFuerte_6
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1300
+        width: 656
+        height: 700
+      alignment: 9
+      pivot: {x: 0.49999964, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5915e71ecd66ee30800000000000000
+      internalID: 4532430806926563675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoFuerte_7
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1312
+        width: 638
+        height: 688
+      alignment: 9
+      pivot: {x: 0.49447048, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7bfcc88ea4c7de0800000000000000
+      internalID: -1334109026953218139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoFuerte_8
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 1324
+        width: 612
+        height: 676
+      alignment: 9
+      pivot: {x: 0.48847273, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6345d5b84882d490800000000000000
+      internalID: -7722960565117303956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoFuerte_9
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 1394
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab03a8b9aa838b50800000000000000
+      internalID: 6594266740952337312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

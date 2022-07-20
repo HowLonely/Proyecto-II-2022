@@ -1,7 +1,61 @@
 fileFormatVersion: 2
 guid: 3b5834bcb0489a24a81e834b75acf96b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -372196257878388773
+    second: Detrrota_0
+  - first:
+      213: -8540638935189497161
+    second: Detrrota_1
+  - first:
+      213: -7406023070980628129
+    second: Detrrota_2
+  - first:
+      213: 8732577272123327897
+    second: Detrrota_3
+  - first:
+      213: -5742085065213069987
+    second: Detrrota_4
+  - first:
+      213: -2008040011314692173
+    second: Detrrota_5
+  - first:
+      213: 9132299395880110057
+    second: Detrrota_6
+  - first:
+      213: -3985574609167874962
+    second: Detrrota_7
+  - first:
+      213: -4272452002557733496
+    second: Detrrota_8
+  - first:
+      213: -3616505487435080694
+    second: Detrrota_9
+  - first:
+      213: 6253288255871109219
+    second: Detrrota_10
+  - first:
+      213: 6461638751407259204
+    second: Detrrota_11
+  - first:
+      213: -5259386676916664122
+    second: Detrrota_12
+  - first:
+      213: 3979864371295271092
+    second: Detrrota_13
+  - first:
+      213: 2770833820117023777
+    second: Detrrota_14
+  - first:
+      213: 4982544444511178919
+    second: Detrrota_15
+  - first:
+      213: -3195754988919144903
+    second: Detrrota_16
+  - first:
+      213: -9100966377305132523
+    second: Detrrota_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +86,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +95,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +129,411 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Detrrota_0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1162
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfcd66b971b5daf0800000000000000
+      internalID: -372196257878388773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1096
+        width: 273
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bad821832e897980800000000000000
+      internalID: -8540638935189497161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_2
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1176
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512ad77145883990800000000000000
+      internalID: -7406023070980628129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1096
+        width: 277
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9958f8603c8503970800000000000000
+      internalID: 8732577272123327897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_4
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1098
+        width: 316
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5536e95e040050b0800000000000000
+      internalID: -5742085065213069987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_5
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1096
+        width: 340
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bff0deaf320224e0800000000000000
+      internalID: -2008040011314692173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_6
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 1096
+        width: 375
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7c2f16ae17cbe70800000000000000
+      internalID: 9132299395880110057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_7
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1096
+        width: 404
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e648bba620560b8c0800000000000000
+      internalID: -3985574609167874962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_8
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 1098
+        width: 451
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885d3a34a8335b4c0800000000000000
+      internalID: -4272452002557733496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_9
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1131
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c5e259b679fcdc0800000000000000
+      internalID: -3616505487435080694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_10
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 1119
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368c151998428c650800000000000000
+      internalID: 6253288255871109219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 500
+        width: 31
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e378c853a5ca950800000000000000
+      internalID: 6461638751407259204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 393
+        width: 610
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8c5f9cea7e207b0800000000000000
+      internalID: -5259386676916664122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_13
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 393
+        width: 634
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8b9493f815b3730800000000000000
+      internalID: 3979864371295271092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_14
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 371
+        width: 688
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cb6bbcdaaf37620800000000000000
+      internalID: 2770833820117023777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_15
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 371
+        width: 707
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a05fac06cd852540800000000000000
+      internalID: 4982544444511178919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_16
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 371
+        width: 759
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eba48f4c566a3d0800000000000000
+      internalID: -3195754988919144903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Detrrota_17
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 436
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51234ff7c4fd2b180800000000000000
+      internalID: -9100966377305132523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

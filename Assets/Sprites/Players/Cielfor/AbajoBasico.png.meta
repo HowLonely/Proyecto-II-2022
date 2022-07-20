@@ -1,7 +1,22 @@
 fileFormatVersion: 2
 guid: 1e64e88712262ad49891e7318a205472
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4806325282753089985
+    second: AbajoBasico_0
+  - first:
+      213: -4333211663222768459
+    second: AbajoBasico_1
+  - first:
+      213: 5143152450701563866
+    second: AbajoBasico_2
+  - first:
+      213: 4925164895814074564
+    second: AbajoBasico_3
+  - first:
+      213: -3428072031349162712
+    second: AbajoBasico_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +47,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +56,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +90,138 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AbajoBasico_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1301
+        width: 404
+        height: 699
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.58074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ee58ece908c4db0800000000000000
+      internalID: -4806325282753089985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoBasico_1
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1314
+        width: 411
+        height: 686
+      alignment: 9
+      pivot: {x: 0.5057214, y: 0.5925537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcf60d53f65dd3c0800000000000000
+      internalID: -4333211663222768459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoBasico_2
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1320
+        width: 513
+        height: 680
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.5968285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad71fb187e5206740800000000000000
+      internalID: 5143152450701563866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoBasico_3
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1316
+        width: 522
+        height: 684
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.60657614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c83bc063b95440800000000000000
+      internalID: 4925164895814074564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoBasico_4
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1307
+        width: 527
+        height: 693
+      alignment: 9
+      pivot: {x: 0.49553737, y: 0.5848322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d3bf276aa0d60d0800000000000000
+      internalID: -3428072031349162712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

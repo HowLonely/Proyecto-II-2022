@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: a2f52f635798f194f80d6c814a1a71b7
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5454352459914004326
+    second: Basico_0
+  - first:
+      213: 3043436093632186724
+    second: Basico_1
+  - first:
+      213: -2939494219556182452
+    second: Basico_2
+  - first:
+      213: 381424703904921447
+    second: Basico_3
+  - first:
+      213: 3299324255181549721
+    second: Basico_4
+  - first:
+      213: -977799259091947954
+    second: Basico_5
+  - first:
+      213: -3334835019561098705
+    second: Basico_6
+  - first:
+      213: 7341324838034086675
+    second: Basico_7
+  - first:
+      213: 5460478101144987125
+    second: Basico_8
+  - first:
+      213: 1572531974160558841
+    second: Basico_9
+  - first:
+      213: -2403793251128765796
+    second: Basico_10
+  - first:
+      213: -1738891531136452933
+    second: Basico_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +68,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +77,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +111,285 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Basico_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1168
+        width: 414
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667c3f4f9a0c1bb40800000000000000
+      internalID: 5454352459914004326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basico_1
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1166
+        width: 446
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4698c8990057c3a20800000000000000
+      internalID: 3043436093632186724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basico_2
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1166
+        width: 472
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c462a08d491d437d0800000000000000
+      internalID: -2939494219556182452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basico_3
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1166
+        width: 490
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767bfc05fb71b4500800000000000000
+      internalID: 381424703904921447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basico_4
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 1166
+        width: 480
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9903de4fded89cd20800000000000000
+      internalID: 3299324255181549721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basico_5
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1168
+        width: 463
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e2f2421c82e62f0800000000000000
+      internalID: -977799259091947954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basico_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 463
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22278ae73948b1d0800000000000000
+      internalID: -3334835019561098705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basico_7
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 297
+        width: 497
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b16cf4b00a1e560800000000000000
+      internalID: 7341324838034086675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basico_8
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 297
+        width: 584
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5eb82f6e387cb40800000000000000
+      internalID: 5460478101144987125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basico_9
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 309
+        width: 661
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faa8c5bf71c2d510800000000000000
+      internalID: 1572531974160558841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basico_10
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 309
+        width: 669
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c921df026c204aed0800000000000000
+      internalID: -2403793251128765796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basico_11
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 309
+        width: 689
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb63daf8d573ed7e0800000000000000
+      internalID: -1738891531136452933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -1,7 +1,64 @@
 fileFormatVersion: 2
 guid: db383ca0d262228499fcc5e30be3c0cd
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3420783397735240687
+    second: AbajoFuerte_0
+  - first:
+      213: -2639504956615055830
+    second: AbajoFuerte_1
+  - first:
+      213: -415873957001750083
+    second: AbajoFuerte_2
+  - first:
+      213: -9116607197811866369
+    second: AbajoFuerte_3
+  - first:
+      213: -6497041396502264034
+    second: AbajoFuerte_4
+  - first:
+      213: 2004663080485782019
+    second: AbajoFuerte_5
+  - first:
+      213: 6417617737568559161
+    second: AbajoFuerte_6
+  - first:
+      213: -742613643046448040
+    second: AbajoFuerte_7
+  - first:
+      213: -4998830235839023105
+    second: AbajoFuerte_8
+  - first:
+      213: -1263837923736217639
+    second: AbajoFuerte_9
+  - first:
+      213: 5495275356092753789
+    second: AbajoFuerte_10
+  - first:
+      213: 8824904160531196041
+    second: AbajoFuerte_11
+  - first:
+      213: 5387761804551071275
+    second: AbajoFuerte_12
+  - first:
+      213: -3404299119009174909
+    second: AbajoFuerte_13
+  - first:
+      213: 2834364574331483135
+    second: AbajoFuerte_14
+  - first:
+      213: -6973101663909455161
+    second: AbajoFuerte_15
+  - first:
+      213: 2530142824356688798
+    second: AbajoFuerte_16
+  - first:
+      213: -6370753080976737380
+    second: AbajoFuerte_17
+  - first:
+      213: -6098136791042846170
+    second: AbajoFuerte_18
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +89,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +98,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +132,432 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AbajoFuerte_0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1418
+        width: 441
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3109b4060197f20800000000000000
+      internalID: 3420783397735240687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_1
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1400
+        width: 352
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26a3160a389e5bd0800000000000000
+      internalID: -2639504956615055830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_2
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1395
+        width: 414
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db91399e6d48a3af0800000000000000
+      internalID: -415873957001750083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_3
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1381
+        width: 453
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff487a13e0e4b7180800000000000000
+      internalID: -9116607197811866369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_4
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1393
+        width: 553
+        height: 607
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17897ec54fd5d5a0800000000000000
+      internalID: -6497041396502264034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_5
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 1400
+        width: 424
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30202b6537ef1db10800000000000000
+      internalID: 2004663080485782019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_6
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 1361
+        width: 315
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93025009455ff0950800000000000000
+      internalID: 6417617737568559161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_7
+      rect:
+        serializedVersion: 2
+        x: 3986
+        y: 1586
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8549bd083d4b1b5f0800000000000000
+      internalID: -742613643046448040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1400
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7355ca26690aab0800000000000000
+      internalID: -4998830235839023105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_9
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1402
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7190eba12f57ee0800000000000000
+      internalID: -1263837923736217639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_10
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1383
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77edd632d3234c40800000000000000
+      internalID: 5495275356092753789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_11
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 1285
+        width: 6
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9882451e39b587a70800000000000000
+      internalID: 8824904160531196041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_12
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 602
+        width: 426
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b262faec0dc25ca40800000000000000
+      internalID: 5387761804551071275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_13
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 602
+        width: 619
+        height: 700
+      alignment: 9
+      pivot: {x: 0.38982987, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a684eecff71c0d0800000000000000
+      internalID: -3404299119009174909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_14
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 607
+        width: 611
+        height: 700
+      alignment: 9
+      pivot: {x: 0.38068995, y: 0.49328107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3baf0309fa55720800000000000000
+      internalID: 2834364574331483135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_15
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 906
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caddf35bf09a3f90800000000000000
+      internalID: -6973101663909455161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_16
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 637
+        width: 623
+        height: 700
+      alignment: 9
+      pivot: {x: 0.38676265, y: 0.49664044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93b8c45e7fdc1320800000000000000
+      internalID: 2530142824356688798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_17
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 607
+        width: 578
+        height: 700
+      alignment: 9
+      pivot: {x: 0.37794617, y: 0.49999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf7a893d98697a0800000000000000
+      internalID: -6370753080976737380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbajoFuerte_18
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 707
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622962ad5e01f5ba0800000000000000
+      internalID: -6098136791042846170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

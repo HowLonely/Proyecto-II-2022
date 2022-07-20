@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 920a92a3655658a49bf669106f5a9ebb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8701199631412514000
+    second: Vicrtoria_0
+  - first:
+      213: -7103331921906547563
+    second: Vicrtoria_1
+  - first:
+      213: 6229763744419919296
+    second: Vicrtoria_2
+  - first:
+      213: -6890504081606932941
+    second: Vicrtoria_3
+  - first:
+      213: -8670178806622314711
+    second: Vicrtoria_4
+  - first:
+      213: -378494495046284124
+    second: Vicrtoria_5
+  - first:
+      213: 7935456726593347809
+    second: Vicrtoria_6
+  - first:
+      213: 9131053391343914068
+    second: Vicrtoria_7
+  - first:
+      213: -2843809818256784773
+    second: Vicrtoria_8
+  - first:
+      213: 4337499010573781807
+    second: Vicrtoria_9
+  - first:
+      213: -3925450432651872554
+    second: Vicrtoria_10
+  - first:
+      213: -4879981723595813990
+    second: Vicrtoria_11
+  - first:
+      213: 819881700278057643
+    second: Vicrtoria_12
+  - first:
+      213: 2846174402747955203
+    second: Vicrtoria_13
+  - first:
+      213: -8327601425583487136
+    second: Vicrtoria_14
+  - first:
+      213: -1471710107060636188
+    second: Vicrtoria_15
+  - first:
+      213: 8224596377644807120
+    second: Vicrtoria_16
+  - first:
+      213: -860678026006360406
+    second: Vicrtoria_17
+  - first:
+      213: -6652775524326519153
+    second: Vicrtoria_18
+  - first:
+      213: 3919292683587711755
+    second: Vicrtoria_19
+  - first:
+      213: -3028929218426938011
+    second: Vicrtoria_20
+  - first:
+      213: 6743634581932305872
+    second: Vicrtoria_21
+  - first:
+      213: 613641879530673171
+    second: Vicrtoria_22
+  - first:
+      213: 2362391279599092584
+    second: Vicrtoria_23
+  - first:
+      213: -3961191784866621677
+    second: Vicrtoria_24
+  - first:
+      213: 4192653527424892645
+    second: Vicrtoria_25
+  - first:
+      213: 8508274594799820142
+    second: Vicrtoria_26
+  - first:
+      213: 2354843270429130923
+    second: Vicrtoria_27
+  - first:
+      213: 57463001817201619
+    second: Vicrtoria_28
+  - first:
+      213: -3497986035783045170
+    second: Vicrtoria_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vicrtoria_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2183
+        width: 340
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033b5e149012f3780800000000000000
+      internalID: -8701199631412514000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2183
+        width: 346
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59441198045eb6d90800000000000000
+      internalID: -7103331921906547563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_2
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2183
+        width: 349
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5b1cc6e11947650800000000000000
+      internalID: 6229763744419919296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_3
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 2183
+        width: 354
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33680749b030060a0800000000000000
+      internalID: -6890504081606932941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_4
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2183
+        width: 357
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f182cdf465da780800000000000000
+      internalID: -8670178806622314711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_5
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 2180
+        width: 358
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac435913415fbaf0800000000000000
+      internalID: -378494495046284124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_6
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 2177
+        width: 361
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0a41759d7602e60800000000000000
+      internalID: 7935456726593347809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_7
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 2183
+        width: 360
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c0e285ea408be70800000000000000
+      internalID: 9131053391343914068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_8
+      rect:
+        serializedVersion: 2
+        x: 4521
+        y: 2180
+        width: 366
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7249069902c888d0800000000000000
+      internalID: -2843809818256784773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_9
+      rect:
+        serializedVersion: 2
+        x: 5115
+        y: 2136
+        width: 366
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bcbda7e54e13c30800000000000000
+      internalID: 4337499010573781807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1362
+        width: 366
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6b16221aff589c0800000000000000
+      internalID: -3925450432651872554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_11
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1362
+        width: 369
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b4ca64a72d64cb0800000000000000
+      internalID: -4879981723595813990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_12
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1345
+        width: 372
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baabaeeff0ec06b00800000000000000
+      internalID: 819881700278057643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_13
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1330
+        width: 372
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f9942a84af7720800000000000000
+      internalID: 2846174402747955203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_14
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 1318
+        width: 375
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0674f0dff9a6e6c80800000000000000
+      internalID: -8327601425583487136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_15
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 1301
+        width: 375
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e57c40847f639be0800000000000000
+      internalID: -1471710107060636188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_16
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1286
+        width: 375
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3bb7664d2a32270800000000000000
+      internalID: 8224596377644807120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_17
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 1289
+        width: 377
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae08e935e14e04f0800000000000000
+      internalID: -860678026006360406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_18
+      rect:
+        serializedVersion: 2
+        x: 4717
+        y: 1312
+        width: 375
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eca1698e79ca3a0800000000000000
+      internalID: -6652775524326519153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_19
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 1318
+        width: 378
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0378003eef146630800000000000000
+      internalID: 3919292683587711755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 302
+        width: 378
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d5cdd7ce417f5d0800000000000000
+      internalID: -3028929218426938011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_21
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 302
+        width: 377
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd6d174ce3369d50800000000000000
+      internalID: 6743634581932305872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_22
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 243
+        width: 378
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3149ab8c908148800800000000000000
+      internalID: 613641879530673171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_23
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 243
+        width: 378
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8630cf03a56e8c020800000000000000
+      internalID: 2362391279599092584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_24
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 234
+        width: 378
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31754d71f050709c0800000000000000
+      internalID: -3961191784866621677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_25
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 243
+        width: 378
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eef2786b2c4f2a30800000000000000
+      internalID: 4192653527424892645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_26
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 243
+        width: 372
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d168a4aa6731670800000000000000
+      internalID: 8508274594799820142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_27
+      rect:
+        serializedVersion: 2
+        x: 4166
+        y: 261
+        width: 369
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0c5ab5a751ea020800000000000000
+      internalID: 2354843270429130923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_28
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 252
+        width: 372
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbba03bb462cc000800000000000000
+      internalID: 57463001817201619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vicrtoria_29
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 229
+        width: 369
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfefdbcb38a47fc0800000000000000
+      internalID: -3497986035783045170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

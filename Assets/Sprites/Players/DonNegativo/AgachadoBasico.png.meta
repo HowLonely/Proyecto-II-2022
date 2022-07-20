@@ -1,7 +1,22 @@
 fileFormatVersion: 2
 guid: 0948c7f1a61859c44b6680afb02bbe37
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8544878315976109050
+    second: AgachadoBasico_0
+  - first:
+      213: 7323852708227929519
+    second: AgachadoBasico_1
+  - first:
+      213: -1256222631684488332
+    second: AgachadoBasico_2
+  - first:
+      213: 5331564578147630448
+    second: AgachadoBasico_3
+  - first:
+      213: 6431513255121547585
+    second: AgachadoBasico_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +47,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +56,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +90,138 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: AgachadoBasico_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1417
+        width: 330
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6045e4fb17e7a6980800000000000000
+      internalID: -8544878315976109050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoBasico_1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1414
+        width: 402
+        height: 586
+      alignment: 9
+      pivot: {x: 0.42637005, y: 0.49999958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa555351c3d83a560800000000000000
+      internalID: 7323852708227929519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoBasico_2
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1557
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473c3a71c20019ee0800000000000000
+      internalID: -1256222631684488332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoBasico_3
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1413
+        width: 498
+        height: 587
+      alignment: 9
+      pivot: {x: 0.33540705, y: 0.49999958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7b896cb58df940800000000000000
+      internalID: 5331564578147630448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AgachadoBasico_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 840
+        width: 512
+        height: 495
+      alignment: 9
+      pivot: {x: 0.31322584, y: 0.61039275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1417cbbda33514950800000000000000
+      internalID: 6431513255121547585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

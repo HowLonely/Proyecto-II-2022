@@ -1,7 +1,64 @@
 fileFormatVersion: 2
 guid: 366d09457868f444d97fedb3d48f3224
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1472983288871104896
+    second: SltoFuerte_0
+  - first:
+      213: -7213792603125000937
+    second: SltoFuerte_1
+  - first:
+      213: 4147583730135647512
+    second: SltoFuerte_2
+  - first:
+      213: 6385473830509934278
+    second: SltoFuerte_3
+  - first:
+      213: -7122988700308842337
+    second: SltoFuerte_4
+  - first:
+      213: 366315121734010433
+    second: SltoFuerte_5
+  - first:
+      213: 2379588838331630467
+    second: SltoFuerte_6
+  - first:
+      213: -5813268378142264306
+    second: SltoFuerte_7
+  - first:
+      213: -5821272456776097675
+    second: SltoFuerte_8
+  - first:
+      213: 7950203017518243428
+    second: SltoFuerte_9
+  - first:
+      213: 2796416691825504262
+    second: SltoFuerte_10
+  - first:
+      213: -257442717462460824
+    second: SltoFuerte_11
+  - first:
+      213: 7119497113626898992
+    second: SltoFuerte_12
+  - first:
+      213: 4325736197751284785
+    second: SltoFuerte_13
+  - first:
+      213: 190695089070216421
+    second: SltoFuerte_14
+  - first:
+      213: 3452754133051065283
+    second: SltoFuerte_15
+  - first:
+      213: 2518269419293640573
+    second: SltoFuerte_16
+  - first:
+      213: -5403283145640317848
+    second: SltoFuerte_17
+  - first:
+      213: 218121667418454694
+    second: SltoFuerte_18
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +89,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +98,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +132,432 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SltoFuerte_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1116
+        width: 357
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e40c2c089ee8be0800000000000000
+      internalID: -1472983288871104896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_1
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1177
+        width: 346
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715d46709d573eb90800000000000000
+      internalID: -7213792603125000937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_2
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1204
+        width: 501
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ccee7d6d2f8930800000000000000
+      internalID: 4147583730135647512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_3
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 1124
+        width: 472
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6f81efd92cd9850800000000000000
+      internalID: 6385473830509934278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_4
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 1130
+        width: 516
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9858fa248f062d90800000000000000
+      internalID: -7122988700308842337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_5
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 1783
+        width: 134
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1464fc299a9651500800000000000000
+      internalID: 366315121734010433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_6
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 1110
+        width: 547
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383cd3cd07ff50120800000000000000
+      internalID: 2379588838331630467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_7
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1183
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04b1d8c53f135fa0800000000000000
+      internalID: -5813268378142264306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_8
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1157
+        width: 512
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57068110b8fa63fa0800000000000000
+      internalID: -5821272456776097675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_9
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 1116
+        width: 559
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ed96fb58bc45e60800000000000000
+      internalID: 7950203017518243428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_10
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 1124
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6007b384a2edec620800000000000000
+      internalID: 2796416691825504262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 187
+        width: 565
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86683a366316d6cf0800000000000000
+      internalID: -257442717462460824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 187
+        width: 569
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032762577e88dc260800000000000000
+      internalID: 7119497113626898992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_13
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 135
+        width: 507
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a303372a180c30800000000000000
+      internalID: 4325736197751284785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_14
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 316
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e411745c2c75a200800000000000000
+      internalID: 190695089070216421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_15
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 135
+        width: 369
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3454d2795aaef20800000000000000
+      internalID: 3452754133051065283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_16
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 155
+        width: 381
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d770ab9c1b0b2f220800000000000000
+      internalID: 2518269419293640573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_17
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 161
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ce04b5b9ea305b0800000000000000
+      internalID: -5403283145640317848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SltoFuerte_18
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 170
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aafa48308ce60300800000000000000
+      internalID: 218121667418454694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

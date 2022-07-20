@@ -1956,6 +1956,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18bd8ea638aa5494b866dc8a173732a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  colision:
+    serializedVersion: 2
+    m_Bits: 0
   currentHealth: 0
   maxHealth: 500
   vida: {fileID: 526701926}
@@ -1974,7 +1977,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   anim: {fileID: 1340213703}
-  animVFX: {fileID: 600289230}
   H_ataqueBasico: {fileID: 600289228}
   R_Basico: 0.48
   D_Basico: 100
@@ -1983,6 +1985,11 @@ MonoBehaviour:
   enemyLayers:
     serializedVersion: 2
     m_Bits: 128
+  H_Fuerte: {fileID: 0}
+  R_Fuerte: 0.8
+  D_Fuerte: 200
+  V_Fuerte: 10
+  E_Fuerte: 0
 --- !u!61 &1340213700
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2046,6 +2053,7 @@ MonoBehaviour:
   FuerzaDeSalto: 25
   rb: {fileID: 1340213701}
   anim: {fileID: 1340213703}
+  bc: {fileID: 0}
   maxSaltos: 2
   gravedad: 1
 --- !u!95 &1340213703
@@ -2115,7 +2123,7 @@ SpriteRenderer:
   m_Size: {x: 0.46, y: 0.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1340213705
@@ -4032,11 +4040,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00107337144d7b540902c2d74cc35a21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentHealth: 0
-  maxHealth: 1000
-  vida: {fileID: 22349471}
-  anim: {fileID: 1507592118}
-  bc: {fileID: 1507592120}
 --- !u!61 &1507592120
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4132,7 +4135,7 @@ SpriteRenderer:
   m_Size: {x: 3.95, y: 5.6}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1507592123

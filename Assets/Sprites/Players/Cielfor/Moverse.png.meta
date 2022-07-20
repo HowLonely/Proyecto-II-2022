@@ -1,7 +1,61 @@
 fileFormatVersion: 2
 guid: 940ff458a23d99d4ea9f340d9458dfa9
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6757970727814001295
+    second: Moverse_0
+  - first:
+      213: -705273932854813944
+    second: Moverse_1
+  - first:
+      213: 5891430596389096334
+    second: Moverse_2
+  - first:
+      213: 8205723721816171267
+    second: Moverse_3
+  - first:
+      213: 435600018539183998
+    second: Moverse_4
+  - first:
+      213: -3809315223016723994
+    second: Moverse_5
+  - first:
+      213: -3578092867018869705
+    second: Moverse_6
+  - first:
+      213: 627921262819099458
+    second: Moverse_7
+  - first:
+      213: 7843631177698511969
+    second: Moverse_8
+  - first:
+      213: 4294792750525780020
+    second: Moverse_9
+  - first:
+      213: -6908294353388933369
+    second: Moverse_10
+  - first:
+      213: 5203298834104371045
+    second: Moverse_11
+  - first:
+      213: -8197606295748260727
+    second: Moverse_12
+  - first:
+      213: 576562388180010257
+    second: Moverse_13
+  - first:
+      213: 1375386399786090145
+    second: Moverse_14
+  - first:
+      213: 8024836860421999998
+    second: Moverse_15
+  - first:
+      213: 3209489833139170058
+    second: Moverse_16
+  - first:
+      213: 7359964100509151207
+    second: Moverse_17
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +86,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +95,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +129,411 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Moverse_0
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1985
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d8826ad6dd632a0800000000000000
+      internalID: -6757970727814001295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_1
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 1965
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b98d2481d5636f0800000000000000
+      internalID: -705273932854813944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_2
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 1947
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bc3acc9e092c150800000000000000
+      internalID: 5891430596389096334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_3
+      rect:
+        serializedVersion: 2
+        x: 5402
+        y: 1180
+        width: 290
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30369dbcf3690e170800000000000000
+      internalID: 8205723721816171267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1201
+        width: 346
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f7e21b8ef8b0600800000000000000
+      internalID: 435600018539183998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_5
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1201
+        width: 358
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9a99ebcf7922bc0800000000000000
+      internalID: -3809315223016723994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_6
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1177
+        width: 317
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7343bf7be7f085ec0800000000000000
+      internalID: -3578092867018869705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_7
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1174
+        width: 317
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2434f39cf03d6b800800000000000000
+      internalID: 627921262819099458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_8
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1151
+        width: 314
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c06efaffc2adc60800000000000000
+      internalID: 7843631177698511969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_9
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1151
+        width: 311
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4301307704b2a9b30800000000000000
+      internalID: 4294792750525780020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_10
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 1151
+        width: 340
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f6a6623eec020a0800000000000000
+      internalID: -6908294353388933369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_11
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 1127
+        width: 308
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567cefaa8b4d53840800000000000000
+      internalID: 5203298834104371045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_12
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 1151
+        width: 299
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c4b6db1804c3e80800000000000000
+      internalID: -8197606295748260727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_13
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 1154
+        width: 296
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1150252ff6c500800800000000000000
+      internalID: 576562388180010257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_14
+      rect:
+        serializedVersion: 2
+        x: 4925
+        y: 1163
+        width: 290
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae372cb4aa561310800000000000000
+      internalID: 1375386399786090145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 325
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d0aed6b92fd5f60800000000000000
+      internalID: 8024836860421999998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 91
+        width: 399
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bec76aff56a8c20800000000000000
+      internalID: 3209489833139170058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moverse_17
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 105
+        width: 410
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efa97aca58d32660800000000000000
+      internalID: 7359964100509151207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
