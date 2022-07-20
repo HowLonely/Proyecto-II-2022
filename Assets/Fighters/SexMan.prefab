@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: 2181386572325719924}
   m_Layer: 0
   m_Name: SexMan
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -150,7 +150,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   anim: {fileID: 2181386572325719924}
-  animVFX: {fileID: 0}
   H_ataqueBasico: {fileID: 5645140885162737252}
   R_Basico: 0.5
   D_Basico: 50
@@ -177,7 +176,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Velocidad: 20
-  FuerzaDeSalto: 5
+  FuerzaDeSalto: 30
   rb: {fileID: 2181386572325719929}
   anim: {fileID: 2181386572325719924}
   bc: {fileID: 2181386572325719928}
@@ -199,7 +198,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 0
   currentHealth: 0
-  maxHealth: 0
+  maxHealth: 2000
   vida: {fileID: 0}
   anim: {fileID: 2181386572325719924}
   bc: {fileID: 2181386572325719928}
